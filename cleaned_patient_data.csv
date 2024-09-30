@@ -1,0 +1,1001 @@
+yearstart,yearend,locationabbr,locationdesc,datasource,topic,question,datavaluetype,stratificationcategory1,stratification1,locationid,topicid,questionid,datavaluetypeid,stratificationcategoryid1,stratificationid1
+2010,2010,OR,Oregon,NVSS,Cardiovascular Disease,Mortality from heart failure,Number,Race/Ethnicity,American Indian or Alaska Native,41,CVD,CVD1_4,NMBR,RACE,AIAN
+2019,2019,AZ,Arizona,YRBSS,Alcohol,Alcohol use among youth,Crude Prevalence,Gender,Female,04,ALC,ALC1_1,CRDPREV,GENDER,GENF
+2019,2019,OH,Ohio,YRBSS,Alcohol,Alcohol use among youth,Crude Prevalence,Gender,Male,39,ALC,ALC1_1,CRDPREV,GENDER,GENM
+2019,2019,US,United States,YRBSS,Alcohol,Alcohol use among youth,Crude Prevalence,Race/Ethnicity,"Asian, non-Hispanic",59,ALC,ALC1_1,CRDPREV,RACE,ASN
+2015,2015,VI,Virgin Islands,YRBSS,Alcohol,Alcohol use among youth,Crude Prevalence,Gender,Male,78,ALC,ALC1_1,CRDPREV,GENDER,GENM
+2020,2020,AL,Alabama,PRAMS,Alcohol,Alcohol use before pregnancy,Crude Prevalence,Race/Ethnicity,"White, non-Hispanic",01,ALC,ALC1_2,CRDPREV,RACE,WHT
+2015,2015,DE,Delaware,PRAMS,Alcohol,Alcohol use before pregnancy,Crude Prevalence,Overall,Overall,10,ALC,ALC1_2,CRDPREV,OVERALL,OVR
+2019,2019,FL,Florida,PRAMS,Alcohol,Alcohol use before pregnancy,Crude Prevalence,Overall,Overall,12,ALC,ALC1_2,CRDPREV,OVERALL,OVR
+2018,2018,KS,Kansas,PRAMS,Alcohol,Alcohol use before pregnancy,Crude Prevalence,Overall,Overall,20,ALC,ALC1_2,CRDPREV,OVERALL,OVR
+2013,2013,MS,Mississippi,PRAMS,Alcohol,Alcohol use before pregnancy,Crude Prevalence,Overall,Overall,28,ALC,ALC1_2,CRDPREV,OVERALL,OVR
+2015,2015,NJ,New Jersey,PRAMS,Alcohol,Alcohol use before pregnancy,Crude Prevalence,Race/Ethnicity,Hispanic,34,ALC,ALC1_2,CRDPREV,RACE,HIS
+2020,2020,PA,Pennsylvania,PRAMS,Alcohol,Alcohol use before pregnancy,Crude Prevalence,Overall,Overall,42,ALC,ALC1_2,CRDPREV,OVERALL,OVR
+2018,2018,SD,South Dakota,PRAMS,Alcohol,Alcohol use before pregnancy,Crude Prevalence,Overall,Overall,46,ALC,ALC1_2,CRDPREV,OVERALL,OVR
+2011,2011,US,United States,PRAMS,Alcohol,Alcohol use before pregnancy,Crude Prevalence,Overall,Overall,59,ALC,ALC1_2,CRDPREV,OVERALL,OVR
+2018,2018,US,United States,PRAMS,Alcohol,Alcohol use before pregnancy,Crude Prevalence,Race/Ethnicity,"White, non-Hispanic",59,ALC,ALC1_2,CRDPREV,RACE,WHT
+2012,2012,VT,Vermont,PRAMS,Alcohol,Alcohol use before pregnancy,Crude Prevalence,Overall,Overall,50,ALC,ALC1_2,CRDPREV,OVERALL,OVR
+2013,2013,NJ,New Jersey,YRBSS,Alcohol,Binge drinking prevalence among youth,Crude Prevalence,Overall,Overall,34,ALC,ALC2_1,CRDPREV,OVERALL,OVR
+2011,2011,AK,Alaska,NVSS,Alcohol,Chronic liver disease mortality,Number,Overall,Overall,02,ALC,ALC6_0,NMBR,OVERALL,OVR
+2016,2016,AK,Alaska,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Male,02,ALC,ALC6_0,NMBR,GENDER,GENM
+2019,2019,AK,Alaska,NVSS,Alcohol,Chronic liver disease mortality,Number,Overall,Overall,02,ALC,ALC6_0,NMBR,OVERALL,OVR
+2016,2016,AL,Alabama,NVSS,Alcohol,Chronic liver disease mortality,Number,Race/Ethnicity,"Black, non-Hispanic",01,ALC,ALC6_0,NMBR,RACE,BLK
+2012,2012,AR,Arkansas,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Male,05,ALC,ALC6_0,NMBR,GENDER,GENM
+2019,2019,AR,Arkansas,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Female,05,ALC,ALC6_0,NMBR,GENDER,GENF
+2018,2018,AZ,Arizona,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Female,04,ALC,ALC6_0,NMBR,GENDER,GENF
+2020,2020,CO,Colorado,NVSS,Alcohol,Chronic liver disease mortality,Age-adjusted Rate,Race/Ethnicity,Hispanic,08,ALC,ALC6_0,AGEADJRATE,RACE,HIS
+2018,2018,CO,Colorado,NVSS,Alcohol,Chronic liver disease mortality,Crude Rate,Overall,Overall,08,ALC,ALC6_0,CRDRATE,OVERALL,OVR
+2019,2019,CO,Colorado,NVSS,Alcohol,Chronic liver disease mortality,Crude Rate,Race/Ethnicity,Hispanic,08,ALC,ALC6_0,CRDRATE,RACE,HIS
+2014,2014,CT,Connecticut,NVSS,Alcohol,Chronic liver disease mortality,Number,Overall,Overall,09,ALC,ALC6_0,NMBR,OVERALL,OVR
+2020,2020,DC,District of Columbia,NVSS,Alcohol,Chronic liver disease mortality,Number,Overall,Overall,11,ALC,ALC6_0,NMBR,OVERALL,OVR
+2015,2015,DC,District of Columbia,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Female,11,ALC,ALC6_0,NMBR,GENDER,GENF
+2017,2017,DC,District of Columbia,NVSS,Alcohol,Chronic liver disease mortality,Number,Overall,Overall,11,ALC,ALC6_0,NMBR,OVERALL,OVR
+2010,2010,DE,Delaware,NVSS,Alcohol,Chronic liver disease mortality,Number,Race/Ethnicity,"White, non-Hispanic",10,ALC,ALC6_0,NMBR,RACE,WHT
+2016,2016,DE,Delaware,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Female,10,ALC,ALC6_0,NMBR,GENDER,GENF
+2020,2020,FL,Florida,NVSS,Alcohol,Chronic liver disease mortality,Age-adjusted Rate,Overall,Overall,12,ALC,ALC6_0,AGEADJRATE,OVERALL,OVR
+2012,2012,FL,Florida,NVSS,Alcohol,Chronic liver disease mortality,Number,Race/Ethnicity,"Black, non-Hispanic",12,ALC,ALC6_0,NMBR,RACE,BLK
+2017,2017,GA,Georgia,NVSS,Alcohol,Chronic liver disease mortality,Age-adjusted Rate,Gender,Female,13,ALC,ALC6_0,AGEADJRATE,GENDER,GENF
+2011,2011,HI,Hawaii,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Male,15,ALC,ALC6_0,NMBR,GENDER,GENM
+2010,2010,IA,Iowa,NVSS,Alcohol,Chronic liver disease mortality,Number,Race/Ethnicity,"White, non-Hispanic",19,ALC,ALC6_0,NMBR,RACE,WHT
+2011,2011,IA,Iowa,NVSS,Alcohol,Chronic liver disease mortality,Crude Rate,Gender,Male,19,ALC,ALC6_0,CRDRATE,GENDER,GENM
+2017,2017,IA,Iowa,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Male,19,ALC,ALC6_0,NMBR,GENDER,GENM
+2014,2014,ID,Idaho,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Female,16,ALC,ALC6_0,NMBR,GENDER,GENF
+2015,2015,ID,Idaho,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Male,16,ALC,ALC6_0,NMBR,GENDER,GENM
+2010,2010,IN,Indiana,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Female,18,ALC,ALC6_0,NMBR,GENDER,GENF
+2020,2020,KS,Kansas,NVSS,Alcohol,Chronic liver disease mortality,Number,Race/Ethnicity,"White, non-Hispanic",20,ALC,ALC6_0,NMBR,RACE,WHT
+2015,2015,KS,Kansas,NVSS,Alcohol,Chronic liver disease mortality,Age-adjusted Rate,Gender,Male,20,ALC,ALC6_0,AGEADJRATE,GENDER,GENM
+2012,2012,KY,Kentucky,NVSS,Alcohol,Chronic liver disease mortality,Number,Overall,Overall,21,ALC,ALC6_0,NMBR,OVERALL,OVR
+2011,2011,LA,Louisiana,NVSS,Alcohol,Chronic liver disease mortality,Number,Overall,Overall,22,ALC,ALC6_0,NMBR,OVERALL,OVR
+2015,2015,LA,Louisiana,NVSS,Alcohol,Chronic liver disease mortality,Number,Race/Ethnicity,"Black, non-Hispanic",22,ALC,ALC6_0,NMBR,RACE,BLK
+2010,2010,MA,Massachusetts,NVSS,Alcohol,Chronic liver disease mortality,Number,Race/Ethnicity,"Black, non-Hispanic",25,ALC,ALC6_0,NMBR,RACE,BLK
+2011,2011,MA,Massachusetts,NVSS,Alcohol,Chronic liver disease mortality,Number,Race/Ethnicity,"White, non-Hispanic",25,ALC,ALC6_0,NMBR,RACE,WHT
+2012,2012,MA,Massachusetts,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Male,25,ALC,ALC6_0,NMBR,GENDER,GENM
+2013,2013,MA,Massachusetts,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Male,25,ALC,ALC6_0,NMBR,GENDER,GENM
+2012,2012,ME,Maine,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Male,23,ALC,ALC6_0,NMBR,GENDER,GENM
+2011,2011,MI,Michigan,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Male,26,ALC,ALC6_0,NMBR,GENDER,GENM
+2013,2013,MI,Michigan,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Female,26,ALC,ALC6_0,NMBR,GENDER,GENF
+2020,2020,MN,Minnesota,NVSS,Alcohol,Chronic liver disease mortality,Age-adjusted Rate,Race/Ethnicity,"Black, non-Hispanic",27,ALC,ALC6_0,AGEADJRATE,RACE,BLK
+2012,2012,MN,Minnesota,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Male,27,ALC,ALC6_0,NMBR,GENDER,GENM
+2018,2018,MN,Minnesota,NVSS,Alcohol,Chronic liver disease mortality,Number,Race/Ethnicity,"Black, non-Hispanic",27,ALC,ALC6_0,NMBR,RACE,BLK
+2019,2019,MN,Minnesota,NVSS,Alcohol,Chronic liver disease mortality,Number,Race/Ethnicity,"Black, non-Hispanic",27,ALC,ALC6_0,NMBR,RACE,BLK
+2014,2014,MO,Missouri,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Female,29,ALC,ALC6_0,NMBR,GENDER,GENF
+2020,2020,MS,Mississippi,NVSS,Alcohol,Chronic liver disease mortality,Number,Race/Ethnicity,Hispanic,28,ALC,ALC6_0,NMBR,RACE,HIS
+2017,2017,MS,Mississippi,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Male,28,ALC,ALC6_0,NMBR,GENDER,GENM
+2010,2010,MT,Montana,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Female,30,ALC,ALC6_0,NMBR,GENDER,GENF
+2015,2015,MT,Montana,NVSS,Alcohol,Chronic liver disease mortality,Age-adjusted Rate,Gender,Male,30,ALC,ALC6_0,AGEADJRATE,GENDER,GENM
+2014,2014,ND,North Dakota,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Male,38,ALC,ALC6_0,NMBR,GENDER,GENM
+2017,2017,ND,North Dakota,NVSS,Alcohol,Chronic liver disease mortality,Number,Overall,Overall,38,ALC,ALC6_0,NMBR,OVERALL,OVR
+2018,2018,ND,North Dakota,NVSS,Alcohol,Chronic liver disease mortality,Age-adjusted Rate,Gender,Male,38,ALC,ALC6_0,AGEADJRATE,GENDER,GENM
+2011,2011,NE,Nebraska,NVSS,Alcohol,Chronic liver disease mortality,Number,Race/Ethnicity,"White, non-Hispanic",31,ALC,ALC6_0,NMBR,RACE,WHT
+2017,2017,NE,Nebraska,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Female,31,ALC,ALC6_0,NMBR,GENDER,GENF
+2012,2012,NH,New Hampshire,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Male,33,ALC,ALC6_0,NMBR,GENDER,GENM
+2016,2016,NH,New Hampshire,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Male,33,ALC,ALC6_0,NMBR,GENDER,GENM
+2011,2011,NJ,New Jersey,NVSS,Alcohol,Chronic liver disease mortality,Number,Overall,Overall,34,ALC,ALC6_0,NMBR,OVERALL,OVR
+2013,2013,NM,New Mexico,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Male,35,ALC,ALC6_0,NMBR,GENDER,GENM
+2015,2015,NM,New Mexico,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Female,35,ALC,ALC6_0,NMBR,GENDER,GENF
+2010,2010,NV,Nevada,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Male,32,ALC,ALC6_0,NMBR,GENDER,GENM
+2015,2015,NY,New York,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Female,36,ALC,ALC6_0,NMBR,GENDER,GENF
+2015,2015,OH,Ohio,NVSS,Alcohol,Chronic liver disease mortality,Number,Race/Ethnicity,"White, non-Hispanic",39,ALC,ALC6_0,NMBR,RACE,WHT
+2018,2018,OK,Oklahoma,NVSS,Alcohol,Chronic liver disease mortality,Crude Rate,Race/Ethnicity,"White, non-Hispanic",40,ALC,ALC6_0,CRDRATE,RACE,WHT
+2018,2018,PA,Pennsylvania,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Female,42,ALC,ALC6_0,NMBR,GENDER,GENF
+2011,2011,RI,Rhode Island,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Female,44,ALC,ALC6_0,NMBR,GENDER,GENF
+2011,2011,RI,Rhode Island,NVSS,Alcohol,Chronic liver disease mortality,Number,Overall,Overall,44,ALC,ALC6_0,NMBR,OVERALL,OVR
+2018,2018,RI,Rhode Island,NVSS,Alcohol,Chronic liver disease mortality,Number,Race/Ethnicity,"White, non-Hispanic",44,ALC,ALC6_0,NMBR,RACE,WHT
+2011,2011,SC,South Carolina,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Male,45,ALC,ALC6_0,NMBR,GENDER,GENM
+2014,2014,SC,South Carolina,NVSS,Alcohol,Chronic liver disease mortality,Number,Race/Ethnicity,"Black, non-Hispanic",45,ALC,ALC6_0,NMBR,RACE,BLK
+2015,2015,SC,South Carolina,NVSS,Alcohol,Chronic liver disease mortality,Crude Rate,Race/Ethnicity,"White, non-Hispanic",45,ALC,ALC6_0,CRDRATE,RACE,WHT
+2013,2013,SD,South Dakota,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Male,46,ALC,ALC6_0,NMBR,GENDER,GENM
+2017,2017,SD,South Dakota,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Female,46,ALC,ALC6_0,NMBR,GENDER,GENF
+2013,2013,TN,Tennessee,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Male,47,ALC,ALC6_0,NMBR,GENDER,GENM
+2015,2015,TN,Tennessee,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Female,47,ALC,ALC6_0,NMBR,GENDER,GENF
+2014,2014,TX,Texas,NVSS,Alcohol,Chronic liver disease mortality,Number,Race/Ethnicity,Hispanic,48,ALC,ALC6_0,NMBR,RACE,HIS
+2015,2015,TX,Texas,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Male,48,ALC,ALC6_0,NMBR,GENDER,GENM
+2016,2016,TX,Texas,NVSS,Alcohol,Chronic liver disease mortality,Number,Overall,Overall,48,ALC,ALC6_0,NMBR,OVERALL,OVR
+2019,2019,TX,Texas,NVSS,Alcohol,Chronic liver disease mortality,Number,Race/Ethnicity,Hispanic,48,ALC,ALC6_0,NMBR,RACE,HIS
+2018,2018,UT,Utah,NVSS,Alcohol,Chronic liver disease mortality,Number,Overall,Overall,49,ALC,ALC6_0,NMBR,OVERALL,OVR
+2019,2019,UT,Utah,NVSS,Alcohol,Chronic liver disease mortality,Number,Overall,Overall,49,ALC,ALC6_0,NMBR,OVERALL,OVR
+2014,2014,VA,Virginia,NVSS,Alcohol,Chronic liver disease mortality,Number,Overall,Overall,51,ALC,ALC6_0,NMBR,OVERALL,OVR
+2013,2013,WA,Washington,NVSS,Alcohol,Chronic liver disease mortality,Number,Race/Ethnicity,Asian or Pacific Islander,53,ALC,ALC6_0,NMBR,RACE,API
+2014,2014,WA,Washington,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Female,53,ALC,ALC6_0,NMBR,GENDER,GENF
+2013,2013,WI,Wisconsin,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Male,55,ALC,ALC6_0,NMBR,GENDER,GENM
+2019,2019,WI,Wisconsin,NVSS,Alcohol,Chronic liver disease mortality,Number,Race/Ethnicity,Hispanic,55,ALC,ALC6_0,NMBR,RACE,HIS
+2019,2019,WV,West Virginia,NVSS,Alcohol,Chronic liver disease mortality,Number,Overall,Overall,54,ALC,ALC6_0,NMBR,OVERALL,OVR
+2020,2020,WY,Wyoming,NVSS,Alcohol,Chronic liver disease mortality,Crude Rate,Gender,Male,56,ALC,ALC6_0,CRDRATE,GENDER,GENM
+2012,2012,WY,Wyoming,NVSS,Alcohol,Chronic liver disease mortality,Number,Race/Ethnicity,"White, non-Hispanic",56,ALC,ALC6_0,NMBR,RACE,WHT
+2015,2015,WY,Wyoming,NVSS,Alcohol,Chronic liver disease mortality,Number,Gender,Female,56,ALC,ALC6_0,NMBR,GENDER,GENF
+2013,2013,IN,Indiana,NVSS,Cardiovascular Disease,Mortality from heart failure,Crude Rate,Gender,Male,18,CVD,CVD1_4,CRDRATE,GENDER,GENM
+2021,2021,DE,Delaware,BRFSS,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,Crude Prevalence,Gender,Male,10,ART,ART5_0,CRDPREV,GENDER,GENM
+2020,2020,MT,Montana,BRFSS,Arthritis,Arthritis among adults aged >= 18 years who are obese,Crude Prevalence,Gender,Male,30,ART,ART1_2,CRDPREV,GENDER,GENM
+2016,2016,AR,Arkansas,SEDD; SID,Asthma,Emergency department visit rate for asthma,Number,Gender,Male,05,AST,AST2_1,NMBR,GENDER,GENM
+2017,2017,AZ,Arizona,SEDD; SID,Asthma,Emergency department visit rate for asthma,Number,Gender,Male,04,AST,AST2_1,NMBR,GENDER,GENM
+2016,2016,CA,California,SEDD; SID,Asthma,Emergency department visit rate for asthma,Number,Race/Ethnicity,"Black, non-Hispanic",06,AST,AST2_1,NMBR,RACE,BLK
+2015,2015,CO,Colorado,SEDD; SID,Asthma,Emergency department visit rate for asthma,Number,Race/Ethnicity,Hispanic,08,AST,AST2_1,NMBR,RACE,HIS
+2017,2017,CO,Colorado,SEDD; SID,Asthma,Emergency department visit rate for asthma,Number,Gender,Male,08,AST,AST2_1,NMBR,GENDER,GENM
+2014,2014,CT,Connecticut,SEDD; SID,Asthma,Emergency department visit rate for asthma,Number,Race/Ethnicity,Hispanic,09,AST,AST2_1,NMBR,RACE,HIS
+2016,2016,DE,Delaware,SEDD; SID,Asthma,Emergency department visit rate for asthma,Number,Gender,Female,10,AST,AST2_1,NMBR,GENDER,GENF
+2014,2014,FL,Florida,SEDD; SID,Asthma,Emergency department visit rate for asthma,Number,Overall,Overall,12,AST,AST2_1,NMBR,OVERALL,OVR
+2016,2016,FL,Florida,SEDD; SID,Asthma,Emergency department visit rate for asthma,Number,Race/Ethnicity,"Black, non-Hispanic",12,AST,AST2_1,NMBR,RACE,BLK
+2017,2017,FL,Florida,SEDD; SID,Asthma,Emergency department visit rate for asthma,Age-adjusted Rate,Race/Ethnicity,Hispanic,12,AST,AST2_1,AGEADJRATE,RACE,HIS
+2018,2018,FL,Florida,SEDD; SID,Asthma,Emergency department visit rate for asthma,Number,Gender,Male,12,AST,AST2_1,NMBR,GENDER,GENM
+2016,2016,LA,Louisiana,SEDD; SID,Asthma,Emergency department visit rate for asthma,Crude Rate,Race/Ethnicity,"White, non-Hispanic",22,AST,AST2_1,CRDRATE,RACE,WHT
+2015,2015,MI,Michigan,SEDD; SID,Asthma,Emergency department visit rate for asthma,Number,Gender,Male,26,AST,AST2_1,NMBR,GENDER,GENM
+2016,2016,MI,Michigan,SEDD; SID,Asthma,Emergency department visit rate for asthma,Number,Gender,Female,26,AST,AST2_1,NMBR,GENDER,GENF
+2016,2016,MN,Minnesota,SEDD; SID,Asthma,Emergency department visit rate for asthma,Age-adjusted Rate,Overall,Overall,27,AST,AST2_1,AGEADJRATE,OVERALL,OVR
+2017,2017,MN,Minnesota,SEDD; SID,Asthma,Emergency department visit rate for asthma,Number,Gender,Male,27,AST,AST2_1,NMBR,GENDER,GENM
+2017,2017,MS,Mississippi,SEDD; SID,Asthma,Emergency department visit rate for asthma,Number,Race/Ethnicity,"Black, non-Hispanic",28,AST,AST2_1,NMBR,RACE,BLK
+2014,2014,NC,North Carolina,SEDD; SID,Asthma,Emergency department visit rate for asthma,Number,Race/Ethnicity,"Black, non-Hispanic",37,AST,AST2_1,NMBR,RACE,BLK
+2014,2014,NE,Nebraska,SEDD; SID,Asthma,Emergency department visit rate for asthma,Number,Gender,Female,31,AST,AST2_1,NMBR,GENDER,GENF
+2016,2016,NE,Nebraska,SEDD; SID,Asthma,Emergency department visit rate for asthma,Number,Race/Ethnicity,"White, non-Hispanic",31,AST,AST2_1,NMBR,RACE,WHT
+2015,2015,NM,New Mexico,SEDD; SID,Asthma,Emergency department visit rate for asthma,Number,Gender,Female,35,AST,AST2_1,NMBR,GENDER,GENF
+2016,2016,NM,New Mexico,SEDD; SID,Asthma,Emergency department visit rate for asthma,Number,Overall,Overall,35,AST,AST2_1,NMBR,OVERALL,OVR
+2014,2014,OH,Ohio,SEDD; SID,Asthma,Emergency department visit rate for asthma,Number,Race/Ethnicity,Hispanic,39,AST,AST2_1,NMBR,RACE,HIS
+2018,2018,OH,Ohio,SEDD; SID,Asthma,Emergency department visit rate for asthma,Number,Gender,Male,39,AST,AST2_1,NMBR,GENDER,GENM
+2013,2013,OR,Oregon,SEDD; SID,Asthma,Emergency department visit rate for asthma,Number,Gender,Male,41,AST,AST2_1,NMBR,GENDER,GENM
+2018,2018,OR,Oregon,SEDD; SID,Asthma,Emergency department visit rate for asthma,Number,Gender,Male,41,AST,AST2_1,NMBR,GENDER,GENM
+2014,2014,RI,Rhode Island,SEDD; SID,Asthma,Emergency department visit rate for asthma,Number,Race/Ethnicity,"White, non-Hispanic",44,AST,AST2_1,NMBR,RACE,WHT
+2015,2015,SD,South Dakota,SEDD; SID,Asthma,Emergency department visit rate for asthma,Number,Overall,Overall,46,AST,AST2_1,NMBR,OVERALL,OVR
+2014,2014,TN,Tennessee,SEDD; SID,Asthma,Emergency department visit rate for asthma,Number,Overall,Overall,47,AST,AST2_1,NMBR,OVERALL,OVR
+2010,2010,VT,Vermont,SEDD; SID,Asthma,Emergency department visit rate for asthma,Number,Overall,Overall,50,AST,AST2_1,NMBR,OVERALL,OVR
+2018,2018,AL,Alabama,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Gender,Female,01,AST,AST3_1,NMBR,GENDER,GENF
+2014,2014,AZ,Arizona,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Overall,Overall,04,AST,AST3_1,NMBR,OVERALL,OVR
+2010,2010,CO,Colorado,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Race/Ethnicity,"White, non-Hispanic",08,AST,AST3_1,NMBR,RACE,WHT
+2014,2014,CO,Colorado,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Gender,Female,08,AST,AST3_1,NMBR,GENDER,GENF
+2016,2016,DC,District of Columbia,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Race/Ethnicity,"Black, non-Hispanic",11,AST,AST3_1,NMBR,RACE,BLK
+2015,2015,DE,Delaware,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Race/Ethnicity,Hispanic,10,AST,AST3_1,NMBR,RACE,HIS
+2018,2018,FL,Florida,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Race/Ethnicity,Hispanic,12,AST,AST3_1,NMBR,RACE,HIS
+2014,2014,GA,Georgia,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Gender,Female,13,AST,AST3_1,NMBR,GENDER,GENF
+2017,2017,GU,Guam,SEDD; SID,Asthma,Hospitalizations for asthma,Crude Rate,Overall,Overall,66,AST,AST3_1,CRDRATE,OVERALL,OVR
+2017,2017,HI,Hawaii,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Overall,Overall,15,AST,AST3_1,NMBR,OVERALL,OVR
+2015,2015,ID,Idaho,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Gender,Male,16,AST,AST3_1,NMBR,GENDER,GENM
+2014,2014,IL,Illinois,SEDD; SID,Asthma,Hospitalizations for asthma,Crude Rate,Gender,Male,17,AST,AST3_1,CRDRATE,GENDER,GENM
+2018,2018,IL,Illinois,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Gender,Male,17,AST,AST3_1,NMBR,GENDER,GENM
+2014,2014,KY,Kentucky,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Race/Ethnicity,"Black, non-Hispanic",21,AST,AST3_1,NMBR,RACE,BLK
+2014,2014,LA,Louisiana,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Overall,Overall,22,AST,AST3_1,NMBR,OVERALL,OVR
+2018,2018,LA,Louisiana,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Overall,Overall,22,AST,AST3_1,NMBR,OVERALL,OVR
+2014,2014,ME,Maine,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Gender,Male,23,AST,AST3_1,NMBR,GENDER,GENM
+2016,2016,MI,Michigan,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Race/Ethnicity,American Indian or Alaska Native,26,AST,AST3_1,NMBR,RACE,AIAN
+2018,2018,MO,Missouri,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Gender,Female,29,AST,AST3_1,NMBR,GENDER,GENF
+2014,2014,ND,North Dakota,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Race/Ethnicity,"Black, non-Hispanic",38,AST,AST3_1,NMBR,RACE,BLK
+2010,2010,NE,Nebraska,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Overall,Overall,31,AST,AST3_1,NMBR,OVERALL,OVR
+2014,2014,NJ,New Jersey,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Race/Ethnicity,"White, non-Hispanic",34,AST,AST3_1,NMBR,RACE,WHT
+2018,2018,NJ,New Jersey,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Race/Ethnicity,Hispanic,34,AST,AST3_1,NMBR,RACE,HIS
+2014,2014,NV,Nevada,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Race/Ethnicity,"White, non-Hispanic",32,AST,AST3_1,NMBR,RACE,WHT
+2016,2016,NY,New York,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Gender,Male,36,AST,AST3_1,NMBR,GENDER,GENM
+2015,2015,OH,Ohio,SEDD; SID,Asthma,Hospitalizations for asthma,Crude Rate,Race/Ethnicity,Hispanic,39,AST,AST3_1,CRDRATE,RACE,HIS
+2017,2017,OH,Ohio,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Race/Ethnicity,Asian or Pacific Islander,39,AST,AST3_1,NMBR,RACE,API
+2015,2015,OK,Oklahoma,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Overall,Overall,40,AST,AST3_1,NMBR,OVERALL,OVR
+2016,2016,OR,Oregon,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Gender,Female,41,AST,AST3_1,NMBR,GENDER,GENF
+2013,2013,PR,Puerto Rico,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Overall,Overall,72,AST,AST3_1,NMBR,OVERALL,OVR
+2010,2010,SD,South Dakota,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Gender,Female,46,AST,AST3_1,NMBR,GENDER,GENF
+2013,2013,SD,South Dakota,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Gender,Male,46,AST,AST3_1,NMBR,GENDER,GENM
+2010,2010,TN,Tennessee,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Overall,Overall,47,AST,AST3_1,NMBR,OVERALL,OVR
+2017,2017,TX,Texas,SEDD; SID,Asthma,Hospitalizations for asthma,Age-adjusted Rate,Gender,Female,48,AST,AST3_1,AGEADJRATE,GENDER,GENF
+2016,2016,VA,Virginia,SEDD; SID,Asthma,Hospitalizations for asthma,Number,Gender,Female,51,AST,AST3_1,NMBR,GENDER,GENF
+2016,2016,VI,Virgin Islands,SEDD; SID,Asthma,Hospitalizations for asthma,Crude Rate,Race/Ethnicity,Hispanic,78,AST,AST3_1,CRDRATE,RACE,HIS
+2020,2020,AL,Alabama,NVSS,Asthma,Asthma mortality rate,Number,Overall,Overall,01,AST,AST4_1,NMBR,OVERALL,OVR
+2012,2012,AL,Alabama,NVSS,Asthma,Asthma mortality rate,Crude Rate,Gender,Female,01,AST,AST4_1,CRDRATE,GENDER,GENF
+2015,2015,AL,Alabama,NVSS,Asthma,Asthma mortality rate,Number,Gender,Male,01,AST,AST4_1,NMBR,GENDER,GENM
+2019,2019,AL,Alabama,NVSS,Asthma,Asthma mortality rate,Number,Gender,Male,01,AST,AST4_1,NMBR,GENDER,GENM
+2010,2010,AR,Arkansas,NVSS,Asthma,Asthma mortality rate,Number,Gender,Female,05,AST,AST4_1,NMBR,GENDER,GENF
+2017,2017,AR,Arkansas,NVSS,Asthma,Asthma mortality rate,Number,Overall,Overall,05,AST,AST4_1,NMBR,OVERALL,OVR
+2020,2020,AZ,Arizona,NVSS,Asthma,Asthma mortality rate,Number,Race/Ethnicity,"White, non-Hispanic",04,AST,AST4_1,NMBR,RACE,WHT
+2018,2018,AZ,Arizona,NVSS,Asthma,Asthma mortality rate,Number,Gender,Male,04,AST,AST4_1,NMBR,GENDER,GENM
+2010,2010,CA,California,NVSS,Asthma,Asthma mortality rate,Number,Overall,Overall,06,AST,AST4_1,NMBR,OVERALL,OVR
+2017,2017,CA,California,NVSS,Asthma,Asthma mortality rate,Number,Overall,Overall,06,AST,AST4_1,NMBR,OVERALL,OVR
+2010,2010,CT,Connecticut,NVSS,Asthma,Asthma mortality rate,Number,Gender,Female,09,AST,AST4_1,NMBR,GENDER,GENF
+2013,2013,CT,Connecticut,NVSS,Asthma,Asthma mortality rate,Number,Race/Ethnicity,Hispanic,09,AST,AST4_1,NMBR,RACE,HIS
+2016,2016,DC,District of Columbia,NVSS,Asthma,Asthma mortality rate,Number,Gender,Male,11,AST,AST4_1,NMBR,GENDER,GENM
+2015,2015,DE,Delaware,NVSS,Asthma,Asthma mortality rate,Number,Gender,Female,10,AST,AST4_1,NMBR,GENDER,GENF
+2016,2016,DE,Delaware,NVSS,Asthma,Asthma mortality rate,Number,Gender,Female,10,AST,AST4_1,NMBR,GENDER,GENF
+2018,2018,DE,Delaware,NVSS,Asthma,Asthma mortality rate,Crude Rate,Gender,Male,10,AST,AST4_1,CRDRATE,GENDER,GENM
+2012,2012,FL,Florida,NVSS,Asthma,Asthma mortality rate,Number,Race/Ethnicity,Hispanic,12,AST,AST4_1,NMBR,RACE,HIS
+2010,2010,GA,Georgia,NVSS,Asthma,Asthma mortality rate,Crude Rate,Gender,Female,13,AST,AST4_1,CRDRATE,GENDER,GENF
+2013,2013,HI,Hawaii,NVSS,Asthma,Asthma mortality rate,Number,Overall,Overall,15,AST,AST4_1,NMBR,OVERALL,OVR
+2013,2013,IA,Iowa,NVSS,Asthma,Asthma mortality rate,Number,Overall,Overall,19,AST,AST4_1,NMBR,OVERALL,OVR
+2020,2020,ID,Idaho,NVSS,Asthma,Asthma mortality rate,Number,Overall,Overall,16,AST,AST4_1,NMBR,OVERALL,OVR
+2010,2010,ID,Idaho,NVSS,Asthma,Asthma mortality rate,Number,Overall,Overall,16,AST,AST4_1,NMBR,OVERALL,OVR
+2020,2020,IL,Illinois,NVSS,Asthma,Asthma mortality rate,Number,Gender,Female,17,AST,AST4_1,NMBR,GENDER,GENF
+2012,2012,IN,Indiana,NVSS,Asthma,Asthma mortality rate,Number,Gender,Male,18,AST,AST4_1,NMBR,GENDER,GENM
+2012,2012,KS,Kansas,NVSS,Asthma,Asthma mortality rate,Number,Race/Ethnicity,"White, non-Hispanic",20,AST,AST4_1,NMBR,RACE,WHT
+2014,2014,KS,Kansas,NVSS,Asthma,Asthma mortality rate,Number,Gender,Female,20,AST,AST4_1,NMBR,GENDER,GENF
+2017,2017,KS,Kansas,NVSS,Asthma,Asthma mortality rate,Number,Overall,Overall,20,AST,AST4_1,NMBR,OVERALL,OVR
+2011,2011,KY,Kentucky,NVSS,Asthma,Asthma mortality rate,Number,Overall,Overall,21,AST,AST4_1,NMBR,OVERALL,OVR
+2011,2011,LA,Louisiana,NVSS,Asthma,Asthma mortality rate,Number,Overall,Overall,22,AST,AST4_1,NMBR,OVERALL,OVR
+2012,2012,LA,Louisiana,NVSS,Asthma,Asthma mortality rate,Number,Overall,Overall,22,AST,AST4_1,NMBR,OVERALL,OVR
+2015,2015,LA,Louisiana,NVSS,Asthma,Asthma mortality rate,Number,Gender,Male,22,AST,AST4_1,NMBR,GENDER,GENM
+2017,2017,LA,Louisiana,NVSS,Asthma,Asthma mortality rate,Number,Overall,Overall,22,AST,AST4_1,NMBR,OVERALL,OVR
+2013,2013,MA,Massachusetts,NVSS,Asthma,Asthma mortality rate,Number,Race/Ethnicity,"White, non-Hispanic",25,AST,AST4_1,NMBR,RACE,WHT
+2013,2013,MD,Maryland,NVSS,Asthma,Asthma mortality rate,Number,Gender,Female,24,AST,AST4_1,NMBR,GENDER,GENF
+2014,2014,MD,Maryland,NVSS,Asthma,Asthma mortality rate,Number,Gender,Female,24,AST,AST4_1,NMBR,GENDER,GENF
+2014,2014,MI,Michigan,NVSS,Asthma,Asthma mortality rate,Number,Gender,Female,26,AST,AST4_1,NMBR,GENDER,GENF
+2015,2015,MI,Michigan,NVSS,Asthma,Asthma mortality rate,Number,Gender,Female,26,AST,AST4_1,NMBR,GENDER,GENF
+2017,2017,MI,Michigan,NVSS,Asthma,Asthma mortality rate,Crude Rate,Gender,Male,26,AST,AST4_1,CRDRATE,GENDER,GENM
+2010,2010,MO,Missouri,NVSS,Asthma,Asthma mortality rate,Number,Overall,Overall,29,AST,AST4_1,NMBR,OVERALL,OVR
+2015,2015,MO,Missouri,NVSS,Asthma,Asthma mortality rate,Number,Gender,Male,29,AST,AST4_1,NMBR,GENDER,GENM
+2012,2012,MT,Montana,NVSS,Asthma,Asthma mortality rate,Number,Gender,Male,30,AST,AST4_1,NMBR,GENDER,GENM
+2013,2013,MT,Montana,NVSS,Asthma,Asthma mortality rate,Number,Race/Ethnicity,"Black, non-Hispanic",30,AST,AST4_1,NMBR,RACE,BLK
+2017,2017,ND,North Dakota,NVSS,Asthma,Asthma mortality rate,Number,Gender,Male,38,AST,AST4_1,NMBR,GENDER,GENM
+2013,2013,NE,Nebraska,NVSS,Asthma,Asthma mortality rate,Age-adjusted Rate,Race/Ethnicity,"White, non-Hispanic",31,AST,AST4_1,AGEADJRATE,RACE,WHT
+2014,2014,NE,Nebraska,NVSS,Asthma,Asthma mortality rate,Number,Race/Ethnicity,"Black, non-Hispanic",31,AST,AST4_1,NMBR,RACE,BLK
+2016,2016,NE,Nebraska,NVSS,Asthma,Asthma mortality rate,Number,Race/Ethnicity,Asian or Pacific Islander,31,AST,AST4_1,NMBR,RACE,API
+2017,2017,NE,Nebraska,NVSS,Asthma,Asthma mortality rate,Age-adjusted Rate,Race/Ethnicity,"White, non-Hispanic",31,AST,AST4_1,AGEADJRATE,RACE,WHT
+2011,2011,NJ,New Jersey,NVSS,Asthma,Asthma mortality rate,Number,Gender,Female,34,AST,AST4_1,NMBR,GENDER,GENF
+2014,2014,NJ,New Jersey,NVSS,Asthma,Asthma mortality rate,Number,Overall,Overall,34,AST,AST4_1,NMBR,OVERALL,OVR
+2013,2013,NM,New Mexico,NVSS,Asthma,Asthma mortality rate,Crude Rate,Gender,Male,35,AST,AST4_1,CRDRATE,GENDER,GENM
+2017,2017,NM,New Mexico,NVSS,Asthma,Asthma mortality rate,Number,Gender,Female,35,AST,AST4_1,NMBR,GENDER,GENF
+2018,2018,NM,New Mexico,NVSS,Asthma,Asthma mortality rate,Number,Overall,Overall,35,AST,AST4_1,NMBR,OVERALL,OVR
+2010,2010,NV,Nevada,NVSS,Asthma,Asthma mortality rate,Crude Rate,Overall,Overall,32,AST,AST4_1,CRDRATE,OVERALL,OVR
+2015,2015,NV,Nevada,NVSS,Asthma,Asthma mortality rate,Number,Overall,Overall,32,AST,AST4_1,NMBR,OVERALL,OVR
+2016,2016,NV,Nevada,NVSS,Asthma,Asthma mortality rate,Number,Race/Ethnicity,Hispanic,32,AST,AST4_1,NMBR,RACE,HIS
+2020,2020,NY,New York,NVSS,Asthma,Asthma mortality rate,Number,Race/Ethnicity,American Indian or Alaska Native,36,AST,AST4_1,NMBR,RACE,AIAN
+2010,2010,NY,New York,NVSS,Asthma,Asthma mortality rate,Crude Rate,Race/Ethnicity,Hispanic,36,AST,AST4_1,CRDRATE,RACE,HIS
+2013,2013,OH,Ohio,NVSS,Asthma,Asthma mortality rate,Number,Gender,Female,39,AST,AST4_1,NMBR,GENDER,GENF
+2015,2015,OH,Ohio,NVSS,Asthma,Asthma mortality rate,Number,Gender,Female,39,AST,AST4_1,NMBR,GENDER,GENF
+2020,2020,OK,Oklahoma,NVSS,Asthma,Asthma mortality rate,Crude Rate,Gender,Male,40,AST,AST4_1,CRDRATE,GENDER,GENM
+2011,2011,OK,Oklahoma,NVSS,Asthma,Asthma mortality rate,Number,Race/Ethnicity,Hispanic,40,AST,AST4_1,NMBR,RACE,HIS
+2014,2014,OK,Oklahoma,NVSS,Asthma,Asthma mortality rate,Number,Gender,Female,40,AST,AST4_1,NMBR,GENDER,GENF
+2017,2017,OK,Oklahoma,NVSS,Asthma,Asthma mortality rate,Number,Gender,Female,40,AST,AST4_1,NMBR,GENDER,GENF
+2017,2017,OR,Oregon,NVSS,Asthma,Asthma mortality rate,Number,Overall,Overall,41,AST,AST4_1,NMBR,OVERALL,OVR
+2013,2013,PA,Pennsylvania,NVSS,Asthma,Asthma mortality rate,Number,Race/Ethnicity,"White, non-Hispanic",42,AST,AST4_1,NMBR,RACE,WHT
+2016,2016,PA,Pennsylvania,NVSS,Asthma,Asthma mortality rate,Crude Rate,Overall,Overall,42,AST,AST4_1,CRDRATE,OVERALL,OVR
+2012,2012,SC,South Carolina,NVSS,Asthma,Asthma mortality rate,Number,Race/Ethnicity,"Black, non-Hispanic",45,AST,AST4_1,NMBR,RACE,BLK
+2011,2011,SD,South Dakota,NVSS,Asthma,Asthma mortality rate,Number,Race/Ethnicity,Hispanic,46,AST,AST4_1,NMBR,RACE,HIS
+2011,2011,TN,Tennessee,NVSS,Asthma,Asthma mortality rate,Number,Gender,Male,47,AST,AST4_1,NMBR,GENDER,GENM
+2013,2013,TN,Tennessee,NVSS,Asthma,Asthma mortality rate,Number,Race/Ethnicity,"Black, non-Hispanic",47,AST,AST4_1,NMBR,RACE,BLK
+2018,2018,TN,Tennessee,NVSS,Asthma,Asthma mortality rate,Number,Overall,Overall,47,AST,AST4_1,NMBR,OVERALL,OVR
+2012,2012,TX,Texas,NVSS,Asthma,Asthma mortality rate,Number,Gender,Male,48,AST,AST4_1,NMBR,GENDER,GENM
+2019,2019,TX,Texas,NVSS,Asthma,Asthma mortality rate,Number,Gender,Male,48,AST,AST4_1,NMBR,GENDER,GENM
+2017,2017,US,United States,NVSS,Asthma,Asthma mortality rate,Crude Rate,Overall,Overall,59,AST,AST4_1,CRDRATE,OVERALL,OVR
+2011,2011,UT,Utah,NVSS,Asthma,Asthma mortality rate,Number,Gender,Female,49,AST,AST4_1,NMBR,GENDER,GENF
+2014,2014,UT,Utah,NVSS,Asthma,Asthma mortality rate,Number,Gender,Male,49,AST,AST4_1,NMBR,GENDER,GENM
+2010,2010,VA,Virginia,NVSS,Asthma,Asthma mortality rate,Number,Gender,Male,51,AST,AST4_1,NMBR,GENDER,GENM
+2012,2012,VT,Vermont,NVSS,Asthma,Asthma mortality rate,Number,Race/Ethnicity,Asian or Pacific Islander,50,AST,AST4_1,NMBR,RACE,API
+2014,2014,VT,Vermont,NVSS,Asthma,Asthma mortality rate,Number,Gender,Male,50,AST,AST4_1,NMBR,GENDER,GENM
+2015,2015,VT,Vermont,NVSS,Asthma,Asthma mortality rate,Crude Rate,Gender,Female,50,AST,AST4_1,CRDRATE,GENDER,GENF
+2017,2017,VT,Vermont,NVSS,Asthma,Asthma mortality rate,Number,Gender,Male,50,AST,AST4_1,NMBR,GENDER,GENM
+2014,2014,WA,Washington,NVSS,Asthma,Asthma mortality rate,Number,Gender,Male,53,AST,AST4_1,NMBR,GENDER,GENM
+2010,2010,WI,Wisconsin,NVSS,Asthma,Asthma mortality rate,Age-adjusted Rate,Gender,Female,55,AST,AST4_1,AGEADJRATE,GENDER,GENF
+2019,2019,WI,Wisconsin,NVSS,Asthma,Asthma mortality rate,Age-adjusted Rate,Overall,Overall,55,AST,AST4_1,AGEADJRATE,OVERALL,OVR
+2019,2019,WI,Wisconsin,NVSS,Asthma,Asthma mortality rate,Crude Rate,Gender,Male,55,AST,AST4_1,CRDRATE,GENDER,GENM
+2020,2020,WV,West Virginia,NVSS,Asthma,Asthma mortality rate,Number,Gender,Female,54,AST,AST4_1,NMBR,GENDER,GENF
+2017,2017,WV,West Virginia,NVSS,Asthma,Asthma mortality rate,Crude Rate,Race/Ethnicity,"White, non-Hispanic",54,AST,AST4_1,CRDRATE,RACE,WHT
+2020,2020,WY,Wyoming,NVSS,Asthma,Asthma mortality rate,Number,Gender,Female,56,AST,AST4_1,NMBR,GENDER,GENF
+2011,2011,WY,Wyoming,NVSS,Asthma,Asthma mortality rate,Number,Race/Ethnicity,American Indian or Alaska Native,56,AST,AST4_1,NMBR,RACE,AIAN
+2013,2013,WY,Wyoming,NVSS,Asthma,Asthma mortality rate,Number,Gender,Female,56,AST,AST4_1,NMBR,GENDER,GENF
+2014,2014,WY,Wyoming,NVSS,Asthma,Asthma mortality rate,Crude Rate,Overall,Overall,56,AST,AST4_1,CRDRATE,OVERALL,OVR
+2013,2017,AK,Alaska,Statewide central cancer registries,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",Average Annual Number,Gender,Male,02,CAN,CAN10_1,AVGANNNMBR,GENDER,GENM
+2014,2018,AK,Alaska,Statewide central cancer registries,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",Average Annual Number,Overall,Overall,02,CAN,CAN10_1,AVGANNNMBR,OVERALL,OVR
+2009,2013,CT,Connecticut,Statewide central cancer registries,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",Average Annual Number,Gender,Male,09,CAN,CAN10_1,AVGANNNMBR,GENDER,GENM
+2014,2018,CT,Connecticut,Statewide central cancer registries,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",Average Annual Number,Race/Ethnicity,Hispanic,09,CAN,CAN10_1,AVGANNNMBR,RACE,HIS
+2008,2012,DC,District of Columbia,Statewide central cancer registries,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",Average Annual Number,Overall,Overall,11,CAN,CAN10_1,AVGANNNMBR,OVERALL,OVR
+2008,2012,HI,Hawaii,Statewide central cancer registries,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",Average Annual Number,Gender,Female,15,CAN,CAN10_1,AVGANNNMBR,GENDER,GENF
+2012,2016,ID,Idaho,Statewide central cancer registries,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",Average Annual Number,Gender,Male,16,CAN,CAN10_1,AVGANNNMBR,GENDER,GENM
+2013,2017,KY,Kentucky,Statewide central cancer registries,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",Average Annual Number,Gender,Male,21,CAN,CAN10_1,AVGANNNMBR,GENDER,GENM
+2010,2014,LA,Louisiana,Statewide central cancer registries,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",Average Annual Number,Gender,Female,22,CAN,CAN10_1,AVGANNNMBR,GENDER,GENF
+2012,2016,LA,Louisiana,Statewide central cancer registries,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",Average Annual Number,Gender,Female,22,CAN,CAN10_1,AVGANNNMBR,GENDER,GENF
+2014,2018,LA,Louisiana,Statewide central cancer registries,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",Average Annual Number,Race/Ethnicity,Asian or Pacific Islander,22,CAN,CAN10_1,AVGANNNMBR,RACE,APIO
+2012,2016,MA,Massachusetts,Statewide central cancer registries,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",Average Annual Number,Gender,Male,25,CAN,CAN10_1,AVGANNNMBR,GENDER,GENM
+2008,2012,NH,New Hampshire,Statewide central cancer registries,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",Average Annual Number,Gender,Male,33,CAN,CAN10_1,AVGANNNMBR,GENDER,GENM
+2014,2018,NM,New Mexico,Statewide central cancer registries,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",Average Annual Number,Gender,Female,35,CAN,CAN10_1,AVGANNNMBR,GENDER,GENF
+2011,2015,OK,Oklahoma,Statewide central cancer registries,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",Average Annual Number,Overall,Overall,40,CAN,CAN10_1,AVGANNNMBR,OVERALL,OVR
+2011,2015,PA,Pennsylvania,Statewide central cancer registries,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",Average Annual Number,Gender,Male,42,CAN,CAN10_1,AVGANNNMBR,GENDER,GENM
+2012,2016,PA,Pennsylvania,Statewide central cancer registries,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",Average Annual Number,Gender,Male,42,CAN,CAN10_1,AVGANNNMBR,GENDER,GENM
+2010,2014,IL,Illinois,Death Certificate,Cancer,"Cancer of the oral cavity and pharynx, mortality",Average Annual Number,Gender,Female,17,CAN,CAN10_2,AVGANNNMBR,GENDER,GENF
+2012,2016,MN,Minnesota,Death Certificate,Cancer,"Cancer of the oral cavity and pharynx, mortality",Average Annual Number,Overall,Overall,27,CAN,CAN10_2,AVGANNNMBR,OVERALL,OVR
+2009,2013,NC,North Carolina,Death Certificate,Cancer,"Cancer of the oral cavity and pharynx, mortality",Average Annual Number,Gender,Male,37,CAN,CAN10_2,AVGANNNMBR,GENDER,GENM
+2009,2013,ND,North Dakota,Death Certificate,Cancer,"Cancer of the oral cavity and pharynx, mortality",Average Annual Number,Overall,Overall,38,CAN,CAN10_2,AVGANNNMBR,OVERALL,OVR
+2010,2014,SC,South Carolina,Death Certificate,Cancer,"Cancer of the oral cavity and pharynx, mortality",Average Annual Number,Gender,Male,45,CAN,CAN10_2,AVGANNNMBR,GENDER,GENM
+2011,2015,SC,South Carolina,Death Certificate,Cancer,"Cancer of the oral cavity and pharynx, mortality",Average Annual Number,Gender,Male,45,CAN,CAN10_2,AVGANNNMBR,GENDER,GENM
+2012,2016,SC,South Carolina,Death Certificate,Cancer,"Cancer of the oral cavity and pharynx, mortality",Average Annual Number,Gender,Female,45,CAN,CAN10_2,AVGANNNMBR,GENDER,GENF
+2013,2017,SC,South Carolina,Death Certificate,Cancer,"Cancer of the oral cavity and pharynx, mortality",Average Annual Number,Gender,Female,45,CAN,CAN10_2,AVGANNNMBR,GENDER,GENF
+2014,2018,SC,South Carolina,Death Certificate,Cancer,"Cancer of the oral cavity and pharynx, mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",45,CAN,CAN10_2,AVGANNNMBR,RACE,WHT
+2015,2019,SC,South Carolina,Death Certificate,Cancer,"Cancer of the oral cavity and pharynx, mortality",Average Annual Crude Rate,Gender,Female,45,CAN,CAN10_2,AVGANNCRDRATE,GENDER,GENF
+2008,2012,SD,South Dakota,Death Certificate,Cancer,"Cancer of the oral cavity and pharynx, mortality",Average Annual Number,Gender,Female,46,CAN,CAN10_2,AVGANNNMBR,GENDER,GENF
+2009,2013,SD,South Dakota,Death Certificate,Cancer,"Cancer of the oral cavity and pharynx, mortality",Average Annual Number,Gender,Female,46,CAN,CAN10_2,AVGANNNMBR,GENDER,GENF
+2013,2017,US,United States,Death Certificate,Cancer,"Cancer of the oral cavity and pharynx, mortality",Average Annual Number,Overall,Overall,59,CAN,CAN10_2,AVGANNNMBR,OVERALL,OVR
+2014,2018,US,United States,Death Certificate,Cancer,"Cancer of the oral cavity and pharynx, mortality",Average Annual Number,Gender,Male,59,CAN,CAN10_2,AVGANNNMBR,GENDER,GENM
+2015,2019,US,United States,Death Certificate,Cancer,"Cancer of the oral cavity and pharynx, mortality",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",59,CAN,CAN10_2,AVGANNNMBR,RACE,BLK
+2015,2019,VA,Virginia,Death Certificate,Cancer,"Cancer of the oral cavity and pharynx, mortality",Average Annual Number,Gender,Female,51,CAN,CAN10_2,AVGANNNMBR,GENDER,GENF
+2011,2015,WV,West Virginia,Death Certificate,Cancer,"Cancer of the oral cavity and pharynx, mortality",Average Annual Number,Gender,Male,54,CAN,CAN10_2,AVGANNNMBR,GENDER,GENM
+2008,2012,AL,Alabama,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Gender,Male,01,CAN,CAN11_1,AVGANNNMBR,GENDER,GENM
+2015,2019,AZ,Arizona,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Gender,Male,04,CAN,CAN11_1,AVGANNNMBR,GENDER,GENM
+2010,2014,CA,California,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Gender,Male,06,CAN,CAN11_1,AVGANNNMBR,GENDER,GENM
+2010,2014,CT,Connecticut,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",09,CAN,CAN11_1,AVGANNNMBR,RACE,BLK
+2010,2014,DC,District of Columbia,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Overall,Overall,11,CAN,CAN11_1,AVGANNNMBR,OVERALL,OVR
+2014,2018,DC,District of Columbia,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Overall,Overall,11,CAN,CAN11_1,AVGANNNMBR,OVERALL,OVR
+2012,2016,DE,Delaware,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Gender,Male,10,CAN,CAN11_1,AVGANNNMBR,GENDER,GENM
+2013,2017,DE,Delaware,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Race/Ethnicity,Hispanic,10,CAN,CAN11_1,AVGANNNMBR,RACE,HIS
+2009,2013,HI,Hawaii,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Gender,Male,15,CAN,CAN11_1,AVGANNNMBR,GENDER,GENM
+2010,2014,HI,Hawaii,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Race/Ethnicity,Asian or Pacific Islander,15,CAN,CAN11_1,AVGANNNMBR,RACE,APIO
+2008,2012,IL,Illinois,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Gender,Male,17,CAN,CAN11_1,AVGANNNMBR,GENDER,GENM
+2014,2018,IL,Illinois,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Crude Rate,Gender,Male,17,CAN,CAN11_1,AVGANNCRDRATE,GENDER,GENM
+2013,2017,IN,Indiana,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",18,CAN,CAN11_1,AVGANNNMBR,RACE,BLK
+2014,2018,IN,Indiana,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Crude Rate,Overall,Overall,18,CAN,CAN11_1,AVGANNCRDRATE,OVERALL,OVR
+2015,2019,IN,Indiana,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Race/Ethnicity,Asian or Pacific Islander,18,CAN,CAN11_1,AVGANNNMBR,RACE,APIO
+2008,2012,KY,Kentucky,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Race/Ethnicity,Hispanic,21,CAN,CAN11_1,AVGANNNMBR,RACE,HIS
+2008,2012,MA,Massachusetts,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Overall,Overall,25,CAN,CAN11_1,AVGANNNMBR,OVERALL,OVR
+2011,2015,MA,Massachusetts,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Gender,Male,25,CAN,CAN11_1,AVGANNNMBR,GENDER,GENM
+2014,2018,MA,Massachusetts,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Gender,Male,25,CAN,CAN11_1,AVGANNNMBR,GENDER,GENM
+2015,2019,MD,Maryland,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Gender,Male,24,CAN,CAN11_1,AVGANNNMBR,GENDER,GENM
+2014,2018,ME,Maine,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Overall,Overall,23,CAN,CAN11_1,AVGANNNMBR,OVERALL,OVR
+2012,2016,MS,Mississippi,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Gender,Male,28,CAN,CAN11_1,AVGANNNMBR,GENDER,GENM
+2014,2018,MS,Mississippi,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Overall,Overall,28,CAN,CAN11_1,AVGANNNMBR,OVERALL,OVR
+2015,2019,MS,Mississippi,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Race/Ethnicity,Hispanic,28,CAN,CAN11_1,AVGANNNMBR,RACE,HIS
+2015,2019,MT,Montana,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Race/Ethnicity,Hispanic,30,CAN,CAN11_1,AVGANNNMBR,RACE,HIS
+2010,2014,ND,North Dakota,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Gender,Male,38,CAN,CAN11_1,AVGANNNMBR,GENDER,GENM
+2011,2015,NJ,New Jersey,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Gender,Male,34,CAN,CAN11_1,AVGANNNMBR,GENDER,GENM
+2008,2012,NM,New Mexico,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Gender,Male,35,CAN,CAN11_1,AVGANNNMBR,GENDER,GENM
+2009,2013,NM,New Mexico,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",35,CAN,CAN11_1,AVGANNNMBR,RACE,BLK
+2012,2016,NM,New Mexico,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Gender,Male,35,CAN,CAN11_1,AVGANNNMBR,GENDER,GENM
+2014,2018,NM,New Mexico,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Race/Ethnicity,Hispanic,35,CAN,CAN11_1,AVGANNNMBR,RACE,HIS
+2010,2014,SC,South Carolina,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Overall,Overall,45,CAN,CAN11_1,AVGANNNMBR,OVERALL,OVR
+2008,2012,SD,South Dakota,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Gender,Male,46,CAN,CAN11_1,AVGANNNMBR,GENDER,GENM
+2009,2013,SD,South Dakota,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Overall,Overall,46,CAN,CAN11_1,AVGANNNMBR,OVERALL,OVR
+2010,2014,SD,South Dakota,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",46,CAN,CAN11_1,AVGANNNMBR,RACE,WHT
+2015,2019,SD,South Dakota,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Overall,Overall,46,CAN,CAN11_1,AVGANNNMBR,OVERALL,OVR
+2009,2013,VT,Vermont,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Gender,Male,50,CAN,CAN11_1,AVGANNNMBR,GENDER,GENM
+2008,2012,WA,Washington,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Overall,Overall,53,CAN,CAN11_1,AVGANNNMBR,OVERALL,OVR
+2010,2014,WA,Washington,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Race/Ethnicity,Hispanic,53,CAN,CAN11_1,AVGANNNMBR,RACE,HIS
+2011,2015,WV,West Virginia,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Race/Ethnicity,Hispanic,54,CAN,CAN11_1,AVGANNNMBR,RACE,HIS
+2012,2016,WV,West Virginia,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Overall,Overall,54,CAN,CAN11_1,AVGANNNMBR,OVERALL,OVR
+2014,2018,WY,Wyoming,Statewide central cancer registries,Cancer,"Invasive cancer of the prostate, incidence",Average Annual Number,Gender,Male,56,CAN,CAN11_1,AVGANNNMBR,GENDER,GENM
+2013,2017,CA,California,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Crude Rate,Race/Ethnicity,Hispanic,06,CAN,CAN11_2,AVGANNCRDRATE,RACE,HIS
+2014,2018,CA,California,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Gender,Male,06,CAN,CAN11_2,AVGANNNMBR,GENDER,GENM
+2010,2014,CO,Colorado,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Crude Rate,Race/Ethnicity,Asian or Pacific Islander,08,CAN,CAN11_2,AVGANNCRDRATE,RACE,APIO
+2008,2012,FL,Florida,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Gender,Male,12,CAN,CAN11_2,AVGANNNMBR,GENDER,GENM
+2008,2012,GA,Georgia,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Gender,Male,13,CAN,CAN11_2,AVGANNNMBR,GENDER,GENM
+2013,2017,GA,Georgia,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Race/Ethnicity,Hispanic,13,CAN,CAN11_2,AVGANNNMBR,RACE,HIS
+2014,2018,GA,Georgia,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Overall,Overall,13,CAN,CAN11_2,AVGANNNMBR,OVERALL,OVR
+2008,2012,ID,Idaho,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Crude Rate,Gender,Male,16,CAN,CAN11_2,AVGANNCRDRATE,GENDER,GENM
+2009,2013,ID,Idaho,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Crude Rate,Overall,Overall,16,CAN,CAN11_2,AVGANNCRDRATE,OVERALL,OVR
+2010,2014,ID,Idaho,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Gender,Male,16,CAN,CAN11_2,AVGANNNMBR,GENDER,GENM
+2011,2015,ID,Idaho,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Overall,Overall,16,CAN,CAN11_2,AVGANNNMBR,OVERALL,OVR
+2010,2014,IL,Illinois,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Gender,Male,17,CAN,CAN11_2,AVGANNNMBR,GENDER,GENM
+2008,2012,KY,Kentucky,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",21,CAN,CAN11_2,AVGANNNMBR,RACE,BLK
+2010,2014,MD,Maryland,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Overall,Overall,24,CAN,CAN11_2,AVGANNNMBR,OVERALL,OVR
+2012,2016,MD,Maryland,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Race/Ethnicity,Hispanic,24,CAN,CAN11_2,AVGANNNMBR,RACE,HIS
+2009,2013,ME,Maine,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Crude Rate,Overall,Overall,23,CAN,CAN11_2,AVGANNCRDRATE,OVERALL,OVR
+2010,2014,ME,Maine,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Crude Rate,Gender,Male,23,CAN,CAN11_2,AVGANNCRDRATE,GENDER,GENM
+2011,2015,ME,Maine,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Crude Rate,Gender,Male,23,CAN,CAN11_2,AVGANNCRDRATE,GENDER,GENM
+2012,2016,ME,Maine,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Crude Rate,Overall,Overall,23,CAN,CAN11_2,AVGANNCRDRATE,OVERALL,OVR
+2013,2017,ME,Maine,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Crude Rate,Overall,Overall,23,CAN,CAN11_2,AVGANNCRDRATE,OVERALL,OVR
+2014,2018,ME,Maine,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Overall,Overall,23,CAN,CAN11_2,AVGANNNMBR,OVERALL,OVR
+2015,2019,ME,Maine,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Gender,Male,23,CAN,CAN11_2,AVGANNNMBR,GENDER,GENM
+2010,2014,MI,Michigan,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",26,CAN,CAN11_2,AVGANNNMBR,RACE,WHT
+2008,2012,MN,Minnesota,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Crude Rate,Overall,Overall,27,CAN,CAN11_2,AVGANNCRDRATE,OVERALL,OVR
+2013,2017,NC,North Carolina,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Gender,Male,37,CAN,CAN11_2,AVGANNNMBR,GENDER,GENM
+2015,2019,ND,North Dakota,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",38,CAN,CAN11_2,AVGANNNMBR,RACE,WHT
+2011,2015,NM,New Mexico,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Gender,Male,35,CAN,CAN11_2,AVGANNNMBR,GENDER,GENM
+2009,2013,NV,Nevada,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",32,CAN,CAN11_2,AVGANNNMBR,RACE,WHT
+2008,2012,OK,Oklahoma,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",40,CAN,CAN11_2,AVGANNNMBR,RACE,BLK
+2012,2016,OK,Oklahoma,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Overall,Overall,40,CAN,CAN11_2,AVGANNNMBR,OVERALL,OVR
+2008,2012,OR,Oregon,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Gender,Male,41,CAN,CAN11_2,AVGANNNMBR,GENDER,GENM
+2009,2013,TN,Tennessee,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Crude Rate,Overall,Overall,47,CAN,CAN11_2,AVGANNCRDRATE,OVERALL,OVR
+2011,2015,TN,Tennessee,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Age-adjusted Rate,Gender,Male,47,CAN,CAN11_2,AVGANNAGEADJRATE,GENDER,GENM
+2008,2012,TX,Texas,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Race/Ethnicity,Asian or Pacific Islander,48,CAN,CAN11_2,AVGANNNMBR,RACE,APIO
+2009,2013,US,United States,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Overall,Overall,59,CAN,CAN11_2,AVGANNNMBR,OVERALL,OVR
+2008,2012,VA,Virginia,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Gender,Male,51,CAN,CAN11_2,AVGANNNMBR,GENDER,GENM
+2013,2017,VA,Virginia,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Gender,Male,51,CAN,CAN11_2,AVGANNNMBR,GENDER,GENM
+2008,2012,VT,Vermont,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Gender,Male,50,CAN,CAN11_2,AVGANNNMBR,GENDER,GENM
+2014,2018,VT,Vermont,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",50,CAN,CAN11_2,AVGANNNMBR,RACE,WHT
+2010,2014,WA,Washington,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",53,CAN,CAN11_2,AVGANNNMBR,RACE,BLK
+2011,2015,WY,Wyoming,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Gender,Male,56,CAN,CAN11_2,AVGANNNMBR,GENDER,GENM
+2014,2018,WY,Wyoming,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Gender,Male,56,CAN,CAN11_2,AVGANNNMBR,GENDER,GENM
+2015,2019,WY,Wyoming,Death Certificate,Cancer,"Cancer of the prostate, mortality",Average Annual Number,Overall,Overall,56,CAN,CAN11_2,AVGANNNMBR,OVERALL,OVR
+2011,2015,CA,California,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Female,06,CAN,CAN4_1,AVGANNNMBR,GENDER,GENF
+2014,2018,CA,California,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Overall,Overall,06,CAN,CAN4_1,AVGANNNMBR,OVERALL,OVR
+2014,2018,IL,Illinois,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Male,17,CAN,CAN4_1,AVGANNNMBR,GENDER,GENM
+2011,2015,KS,Kansas,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Crude Rate,Overall,Overall,20,CAN,CAN4_1,AVGANNCRDRATE,OVERALL,OVR
+2009,2013,KY,Kentucky,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Female,21,CAN,CAN4_1,AVGANNNMBR,GENDER,GENF
+2013,2017,KY,Kentucky,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Female,21,CAN,CAN4_1,AVGANNNMBR,GENDER,GENF
+2015,2019,KY,Kentucky,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Crude Rate,Gender,Male,21,CAN,CAN4_1,AVGANNCRDRATE,GENDER,GENM
+2008,2012,LA,Louisiana,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Male,22,CAN,CAN4_1,AVGANNNMBR,GENDER,GENM
+2009,2013,LA,Louisiana,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",22,CAN,CAN4_1,AVGANNNMBR,RACE,BLK
+2013,2017,LA,Louisiana,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",22,CAN,CAN4_1,AVGANNNMBR,RACE,BLK
+2014,2018,LA,Louisiana,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Crude Rate,Gender,Male,22,CAN,CAN4_1,AVGANNCRDRATE,GENDER,GENM
+2013,2017,MA,Massachusetts,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Male,25,CAN,CAN4_1,AVGANNNMBR,GENDER,GENM
+2015,2019,MA,Massachusetts,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Male,25,CAN,CAN4_1,AVGANNNMBR,GENDER,GENM
+2009,2013,MI,Michigan,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Overall,Overall,26,CAN,CAN4_1,AVGANNNMBR,OVERALL,OVR
+2013,2017,MI,Michigan,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Race/Ethnicity,American Indian or Alaska Native,26,CAN,CAN4_1,AVGANNNMBR,RACE,AIAO
+2008,2012,MN,Minnesota,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Overall,Overall,27,CAN,CAN4_1,AVGANNNMBR,OVERALL,OVR
+2011,2015,MN,Minnesota,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Female,27,CAN,CAN4_1,AVGANNNMBR,GENDER,GENF
+2008,2012,MO,Missouri,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Male,29,CAN,CAN4_1,AVGANNNMBR,GENDER,GENM
+2009,2013,MO,Missouri,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Age-adjusted Rate,Gender,Male,29,CAN,CAN4_1,AVGANNAGEADJRATE,GENDER,GENM
+2008,2012,MS,Mississippi,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Race/Ethnicity,Asian or Pacific Islander,28,CAN,CAN4_1,AVGANNNMBR,RACE,APIO
+2009,2013,MS,Mississippi,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Female,28,CAN,CAN4_1,AVGANNNMBR,GENDER,GENF
+2010,2014,MS,Mississippi,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Race/Ethnicity,Hispanic,28,CAN,CAN4_1,AVGANNNMBR,RACE,HIS
+2012,2016,MS,Mississippi,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Male,28,CAN,CAN4_1,AVGANNNMBR,GENDER,GENM
+2013,2017,MS,Mississippi,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Female,28,CAN,CAN4_1,AVGANNNMBR,GENDER,GENF
+2015,2019,MS,Mississippi,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Race/Ethnicity,Hispanic,28,CAN,CAN4_1,AVGANNNMBR,RACE,HIS
+2011,2015,ND,North Dakota,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Female,38,CAN,CAN4_1,AVGANNNMBR,GENDER,GENF
+2015,2019,ND,North Dakota,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",38,CAN,CAN4_1,AVGANNNMBR,RACE,WHT
+2013,2017,NH,New Hampshire,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Female,33,CAN,CAN4_1,AVGANNNMBR,GENDER,GENF
+2015,2019,NJ,New Jersey,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Male,34,CAN,CAN4_1,AVGANNNMBR,GENDER,GENM
+2009,2013,NM,New Mexico,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",35,CAN,CAN4_1,AVGANNNMBR,RACE,BLK
+2010,2014,NM,New Mexico,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Male,35,CAN,CAN4_1,AVGANNNMBR,GENDER,GENM
+2011,2015,NM,New Mexico,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Overall,Overall,35,CAN,CAN4_1,AVGANNNMBR,OVERALL,OVR
+2013,2017,NM,New Mexico,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Overall,Overall,35,CAN,CAN4_1,AVGANNNMBR,OVERALL,OVR
+2014,2018,NM,New Mexico,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Race/Ethnicity,Hispanic,35,CAN,CAN4_1,AVGANNNMBR,RACE,HIS
+2012,2016,OK,Oklahoma,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Male,40,CAN,CAN4_1,AVGANNNMBR,GENDER,GENM
+2015,2019,OR,Oregon,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Overall,Overall,41,CAN,CAN4_1,AVGANNNMBR,OVERALL,OVR
+2008,2012,RI,Rhode Island,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Race/Ethnicity,Hispanic,44,CAN,CAN4_1,AVGANNNMBR,RACE,HIS
+2010,2014,RI,Rhode Island,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Overall,Overall,44,CAN,CAN4_1,AVGANNNMBR,OVERALL,OVR
+2011,2015,RI,Rhode Island,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Overall,Overall,44,CAN,CAN4_1,AVGANNNMBR,OVERALL,OVR
+2013,2017,RI,Rhode Island,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Male,44,CAN,CAN4_1,AVGANNNMBR,GENDER,GENM
+2014,2018,RI,Rhode Island,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Overall,Overall,44,CAN,CAN4_1,AVGANNNMBR,OVERALL,OVR
+2008,2012,SD,South Dakota,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Female,46,CAN,CAN4_1,AVGANNNMBR,GENDER,GENF
+2008,2012,SD,South Dakota,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Race/Ethnicity,Hispanic,46,CAN,CAN4_1,AVGANNNMBR,RACE,HIS
+2014,2018,SD,South Dakota,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Male,46,CAN,CAN4_1,AVGANNNMBR,GENDER,GENM
+2008,2012,TN,Tennessee,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Race/Ethnicity,Hispanic,47,CAN,CAN4_1,AVGANNNMBR,RACE,HIS
+2012,2016,TN,Tennessee,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Race/Ethnicity,Asian or Pacific Islander,47,CAN,CAN4_1,AVGANNNMBR,RACE,APIO
+2013,2017,TN,Tennessee,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",47,CAN,CAN4_1,AVGANNNMBR,RACE,WHT
+2014,2018,TN,Tennessee,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Male,47,CAN,CAN4_1,AVGANNNMBR,GENDER,GENM
+2015,2019,TN,Tennessee,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Crude Rate,Gender,Male,47,CAN,CAN4_1,AVGANNCRDRATE,GENDER,GENM
+2012,2016,US,United States,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Overall,Overall,59,CAN,CAN4_1,AVGANNNMBR,OVERALL,OVR
+2008,2012,VT,Vermont,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Male,50,CAN,CAN4_1,AVGANNNMBR,GENDER,GENM
+2008,2012,WA,Washington,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Male,53,CAN,CAN4_1,AVGANNNMBR,GENDER,GENM
+2009,2013,WA,Washington,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Female,53,CAN,CAN4_1,AVGANNNMBR,GENDER,GENF
+2011,2015,WA,Washington,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Race/Ethnicity,Hispanic,53,CAN,CAN4_1,AVGANNNMBR,RACE,HIS
+2012,2016,WA,Washington,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Male,53,CAN,CAN4_1,AVGANNNMBR,GENDER,GENM
+2014,2018,WA,Washington,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Race/Ethnicity,Hispanic,53,CAN,CAN4_1,AVGANNNMBR,RACE,HIS
+2015,2019,WA,Washington,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Male,53,CAN,CAN4_1,AVGANNNMBR,GENDER,GENM
+2009,2013,WI,Wisconsin,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Female,55,CAN,CAN4_1,AVGANNNMBR,GENDER,GENF
+2010,2014,WI,Wisconsin,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Female,55,CAN,CAN4_1,AVGANNNMBR,GENDER,GENF
+2011,2015,WI,Wisconsin,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Race/Ethnicity,Hispanic,55,CAN,CAN4_1,AVGANNNMBR,RACE,HIS
+2012,2016,WI,Wisconsin,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Race/Ethnicity,Hispanic,55,CAN,CAN4_1,AVGANNNMBR,RACE,HIS
+2015,2019,WI,Wisconsin,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Race/Ethnicity,Hispanic,55,CAN,CAN4_1,AVGANNNMBR,RACE,HIS
+2010,2014,WV,West Virginia,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Male,54,CAN,CAN4_1,AVGANNNMBR,GENDER,GENM
+2011,2015,WV,West Virginia,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Gender,Male,54,CAN,CAN4_1,AVGANNNMBR,GENDER,GENM
+2014,2018,WV,West Virginia,Statewide central cancer registries,Cancer,"Invasive cancer (all sites combined), incidence",Average Annual Number,Overall,Overall,54,CAN,CAN4_1,AVGANNNMBR,OVERALL,OVR
+2015,2019,IA,Iowa,Death Certificate,Cancer,"Invasive cancer (all sites combined), mortality",Average Annual Number,Race/Ethnicity,Hispanic,19,CAN,CAN4_2,AVGANNNMBR,RACE,HIS
+2008,2012,ID,Idaho,Death Certificate,Cancer,"Invasive cancer (all sites combined), mortality",Average Annual Number,Gender,Female,16,CAN,CAN4_2,AVGANNNMBR,GENDER,GENF
+2010,2014,IL,Illinois,Death Certificate,Cancer,"Invasive cancer (all sites combined), mortality",Average Annual Age-adjusted Rate,Overall,Overall,17,CAN,CAN4_2,AVGANNAGEADJRATE,OVERALL,OVR
+2008,2012,KS,Kansas,Death Certificate,Cancer,"Invasive cancer (all sites combined), mortality",Average Annual Crude Rate,Gender,Male,20,CAN,CAN4_2,AVGANNCRDRATE,GENDER,GENM
+2013,2017,MA,Massachusetts,Death Certificate,Cancer,"Invasive cancer (all sites combined), mortality",Average Annual Number,Gender,Male,25,CAN,CAN4_2,AVGANNNMBR,GENDER,GENM
+2015,2019,NC,North Carolina,Death Certificate,Cancer,"Invasive cancer (all sites combined), mortality",Average Annual Number,Race/Ethnicity,American Indian or Alaska Native,37,CAN,CAN4_2,AVGANNNMBR,RACE,AIAO
+2015,2019,PA,Pennsylvania,Death Certificate,Cancer,"Invasive cancer (all sites combined), mortality",Average Annual Number,Gender,Male,42,CAN,CAN4_2,AVGANNNMBR,GENDER,GENM
+2015,2019,US,United States,Death Certificate,Cancer,"Invasive cancer (all sites combined), mortality",Average Annual Number,Overall,Overall,59,CAN,CAN4_2,AVGANNNMBR,OVERALL,OVR
+2009,2013,UT,Utah,Death Certificate,Cancer,"Invasive cancer (all sites combined), mortality",Average Annual Number,Overall,Overall,49,CAN,CAN4_2,AVGANNNMBR,OVERALL,OVR
+2012,2016,UT,Utah,Death Certificate,Cancer,"Invasive cancer (all sites combined), mortality",Average Annual Number,Overall,Overall,49,CAN,CAN4_2,AVGANNNMBR,OVERALL,OVR
+2010,2014,WV,West Virginia,Death Certificate,Cancer,"Invasive cancer (all sites combined), mortality",Average Annual Number,Overall,Overall,54,CAN,CAN4_2,AVGANNNMBR,OVERALL,OVR
+2011,2015,WV,West Virginia,Death Certificate,Cancer,"Invasive cancer (all sites combined), mortality",Average Annual Number,Race/Ethnicity,Hispanic,54,CAN,CAN4_2,AVGANNNMBR,RACE,HIS
+2012,2016,WV,West Virginia,Death Certificate,Cancer,"Invasive cancer (all sites combined), mortality",Average Annual Crude Rate,Race/Ethnicity,"White, non-Hispanic",54,CAN,CAN4_2,AVGANNCRDRATE,RACE,WHT
+2013,2017,WV,West Virginia,Death Certificate,Cancer,"Invasive cancer (all sites combined), mortality",Average Annual Number,Race/Ethnicity,Hispanic,54,CAN,CAN4_2,AVGANNNMBR,RACE,HIS
+2014,2018,WV,West Virginia,Death Certificate,Cancer,"Invasive cancer (all sites combined), mortality",Average Annual Age-adjusted Rate,Gender,Male,54,CAN,CAN4_2,AVGANNAGEADJRATE,GENDER,GENM
+2008,2012,AK,Alaska,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Crude Rate,Race/Ethnicity,Hispanic,02,CAN,CAN5_1,AVGANNCRDRATE,RACE,HIS
+2010,2014,AK,Alaska,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,Hispanic,02,CAN,CAN5_1,AVGANNNMBR,RACE,HIS
+2014,2018,AK,Alaska,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Gender,Female,02,CAN,CAN5_1,AVGANNNMBR,GENDER,GENF
+2009,2013,AL,Alabama,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,Hispanic,01,CAN,CAN5_1,AVGANNNMBR,RACE,HIS
+2010,2014,AL,Alabama,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Gender,Female,01,CAN,CAN5_1,AVGANNNMBR,GENDER,GENF
+2011,2015,AL,Alabama,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Crude Rate,Gender,Female,01,CAN,CAN5_1,AVGANNCRDRATE,GENDER,GENF
+2013,2017,AL,Alabama,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,Hispanic,01,CAN,CAN5_1,AVGANNNMBR,RACE,HIS
+2014,2018,AL,Alabama,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Gender,Male,01,CAN,CAN5_1,AVGANNNMBR,GENDER,GENM
+2012,2016,AR,Arkansas,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,Hispanic,05,CAN,CAN5_1,AVGANNNMBR,RACE,HIS
+2015,2019,AR,Arkansas,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Gender,Female,05,CAN,CAN5_1,AVGANNNMBR,GENDER,GENF
+2012,2016,AZ,Arizona,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Gender,Female,04,CAN,CAN5_1,AVGANNNMBR,GENDER,GENF
+2015,2019,AZ,Arizona,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Overall,Overall,04,CAN,CAN5_1,AVGANNNMBR,OVERALL,OVR
+2015,2019,CA,California,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Overall,Overall,06,CAN,CAN5_1,AVGANNNMBR,OVERALL,OVR
+2015,2019,DC,District of Columbia,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Gender,Female,11,CAN,CAN5_1,AVGANNNMBR,GENDER,GENF
+2008,2012,FL,Florida,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Gender,Female,12,CAN,CAN5_1,AVGANNNMBR,GENDER,GENF
+2009,2013,FL,Florida,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Overall,Overall,12,CAN,CAN5_1,AVGANNNMBR,OVERALL,OVR
+2012,2016,FL,Florida,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Gender,Female,12,CAN,CAN5_1,AVGANNNMBR,GENDER,GENF
+2014,2018,FL,Florida,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,Hispanic,12,CAN,CAN5_1,AVGANNNMBR,RACE,HIS
+2015,2019,FL,Florida,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,Asian or Pacific Islander,12,CAN,CAN5_1,AVGANNNMBR,RACE,APIO
+2009,2013,GA,Georgia,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Gender,Female,13,CAN,CAN5_1,AVGANNNMBR,GENDER,GENF
+2009,2013,GA,Georgia,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,Hispanic,13,CAN,CAN5_1,AVGANNNMBR,RACE,HIS
+2011,2015,GA,Georgia,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,Hispanic,13,CAN,CAN5_1,AVGANNNMBR,RACE,HIS
+2014,2018,GA,Georgia,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,Hispanic,13,CAN,CAN5_1,AVGANNNMBR,RACE,HIS
+2009,2013,HI,Hawaii,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",15,CAN,CAN5_1,AVGANNNMBR,RACE,BLK
+2010,2014,HI,Hawaii,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Crude Rate,Gender,Female,15,CAN,CAN5_1,AVGANNCRDRATE,GENDER,GENF
+2012,2016,HI,Hawaii,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,Asian or Pacific Islander,15,CAN,CAN5_1,AVGANNNMBR,RACE,APIO
+2014,2018,ND,North Dakota,Death Certificate,Cancer,"Melanoma, mortality",Average Annual Number,Gender,Female,38,CAN,CAN9_2,AVGANNNMBR,GENDER,GENF
+2013,2017,HI,Hawaii,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",15,CAN,CAN5_1,AVGANNNMBR,RACE,WHT
+2015,2019,HI,Hawaii,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,Hispanic,15,CAN,CAN5_1,AVGANNNMBR,RACE,HIS
+2014,2018,IL,Illinois,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Gender,Female,17,CAN,CAN5_1,AVGANNNMBR,GENDER,GENF
+2008,2012,IN,Indiana,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Gender,Female,18,CAN,CAN5_1,AVGANNNMBR,GENDER,GENF
+2009,2013,IN,Indiana,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",18,CAN,CAN5_1,AVGANNNMBR,RACE,BLK
+2010,2014,IN,Indiana,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,Asian or Pacific Islander,18,CAN,CAN5_1,AVGANNNMBR,RACE,APIO
+2012,2016,IN,Indiana,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Gender,Female,18,CAN,CAN5_1,AVGANNNMBR,GENDER,GENF
+2013,2017,IN,Indiana,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",18,CAN,CAN5_1,AVGANNNMBR,RACE,BLK
+2015,2019,IN,Indiana,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Overall,Overall,18,CAN,CAN5_1,AVGANNNMBR,OVERALL,OVR
+2009,2013,KS,Kansas,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,Hispanic,20,CAN,CAN5_1,AVGANNNMBR,RACE,HIS
+2012,2016,KS,Kansas,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Gender,Female,20,CAN,CAN5_1,AVGANNNMBR,GENDER,GENF
+2014,2018,KS,Kansas,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Gender,Female,20,CAN,CAN5_1,AVGANNNMBR,GENDER,GENF
+2015,2019,KS,Kansas,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,Hispanic,20,CAN,CAN5_1,AVGANNNMBR,RACE,HIS
+2014,2018,KY,Kentucky,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Crude Rate,Overall,Overall,21,CAN,CAN5_1,AVGANNCRDRATE,OVERALL,OVR
+2008,2012,MD,Maryland,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Gender,Female,24,CAN,CAN5_1,AVGANNNMBR,GENDER,GENF
+2011,2015,MI,Michigan,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Gender,Female,26,CAN,CAN5_1,AVGANNNMBR,GENDER,GENF
+2012,2016,MI,Michigan,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Overall,Overall,26,CAN,CAN5_1,AVGANNNMBR,OVERALL,OVR
+2008,2012,MO,Missouri,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,Hispanic,29,CAN,CAN5_1,AVGANNNMBR,RACE,HIS
+2013,2017,MT,Montana,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",30,CAN,CAN5_1,AVGANNNMBR,RACE,WHT
+2010,2014,NE,Nebraska,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Overall,Overall,31,CAN,CAN5_1,AVGANNNMBR,OVERALL,OVR
+2011,2015,NE,Nebraska,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",31,CAN,CAN5_1,AVGANNNMBR,RACE,BLK
+2008,2012,NJ,New Jersey,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Gender,Female,34,CAN,CAN5_1,AVGANNNMBR,GENDER,GENF
+2010,2014,NJ,New Jersey,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,Hispanic,34,CAN,CAN5_1,AVGANNNMBR,RACE,HIS
+2015,2019,NJ,New Jersey,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,Hispanic,34,CAN,CAN5_1,AVGANNNMBR,RACE,HIS
+2015,2019,NM,New Mexico,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,Hispanic,35,CAN,CAN5_1,AVGANNNMBR,RACE,HIS
+2011,2015,NV,Nevada,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,Hispanic,32,CAN,CAN5_1,AVGANNNMBR,RACE,HIS
+2013,2017,NV,Nevada,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Gender,Female,32,CAN,CAN5_1,AVGANNNMBR,GENDER,GENF
+2014,2018,NV,Nevada,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",32,CAN,CAN5_1,AVGANNNMBR,RACE,WHT
+2010,2014,NY,New York,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",36,CAN,CAN5_1,AVGANNNMBR,RACE,BLK
+2014,2018,NY,New York,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Gender,Female,36,CAN,CAN5_1,AVGANNNMBR,GENDER,GENF
+2013,2017,OK,Oklahoma,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Gender,Female,40,CAN,CAN5_1,AVGANNNMBR,GENDER,GENF
+2015,2019,OK,Oklahoma,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Overall,Overall,40,CAN,CAN5_1,AVGANNNMBR,OVERALL,OVR
+2012,2016,OR,Oregon,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",41,CAN,CAN5_1,AVGANNNMBR,RACE,WHT
+2015,2019,SC,South Carolina,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Overall,Overall,45,CAN,CAN5_1,AVGANNNMBR,OVERALL,OVR
+2008,2012,VA,Virginia,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Gender,Female,51,CAN,CAN5_1,AVGANNNMBR,GENDER,GENF
+2013,2017,VA,Virginia,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Gender,Female,51,CAN,CAN5_1,AVGANNNMBR,GENDER,GENF
+2010,2014,VT,Vermont,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Age-adjusted Rate,Overall,Overall,50,CAN,CAN5_1,AVGANNAGEADJRATE,OVERALL,OVR
+2012,2016,VT,Vermont,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",50,CAN,CAN5_1,AVGANNNMBR,RACE,WHT
+2013,2017,VT,Vermont,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Age-adjusted Rate,Gender,Female,50,CAN,CAN5_1,AVGANNAGEADJRATE,GENDER,GENF
+2008,2012,WV,West Virginia,Statewide central cancer registries,Cancer,"Invasive cancer of the female breast, incidence",Average Annual Number,Overall,Overall,54,CAN,CAN5_1,AVGANNNMBR,OVERALL,OVR
+2010,2014,AK,Alaska,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Race/Ethnicity,American Indian or Alaska Native,02,CAN,CAN5_2,AVGANNNMBR,RACE,AIAO
+2010,2014,AK,Alaska,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",02,CAN,CAN5_2,AVGANNNMBR,RACE,WHT
+2011,2015,AK,Alaska,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Overall,Overall,02,CAN,CAN5_2,AVGANNNMBR,OVERALL,OVR
+2008,2012,AL,Alabama,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Gender,Female,01,CAN,CAN5_2,AVGANNNMBR,GENDER,GENF
+2008,2012,AL,Alabama,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Overall,Overall,01,CAN,CAN5_2,AVGANNNMBR,OVERALL,OVR
+2008,2012,AZ,Arizona,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Race/Ethnicity,Hispanic,04,CAN,CAN5_2,AVGANNNMBR,RACE,HIS
+2011,2015,AZ,Arizona,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Gender,Female,04,CAN,CAN5_2,AVGANNNMBR,GENDER,GENF
+2012,2016,AZ,Arizona,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Gender,Female,04,CAN,CAN5_2,AVGANNNMBR,GENDER,GENF
+2013,2017,AZ,Arizona,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Overall,Overall,04,CAN,CAN5_2,AVGANNNMBR,OVERALL,OVR
+2014,2018,AZ,Arizona,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Gender,Female,04,CAN,CAN5_2,AVGANNNMBR,GENDER,GENF
+2015,2019,AZ,Arizona,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Gender,Female,04,CAN,CAN5_2,AVGANNNMBR,GENDER,GENF
+2012,2016,CO,Colorado,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Gender,Female,08,CAN,CAN5_2,AVGANNNMBR,GENDER,GENF
+2013,2017,CO,Colorado,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Gender,Female,08,CAN,CAN5_2,AVGANNNMBR,GENDER,GENF
+2015,2019,CT,Connecticut,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Age-adjusted Rate,Race/Ethnicity,"Black, non-Hispanic",09,CAN,CAN5_2,AVGANNAGEADJRATE,RACE,BLK
+2008,2012,DC,District of Columbia,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Crude Rate,Gender,Female,11,CAN,CAN5_2,AVGANNCRDRATE,GENDER,GENF
+2009,2013,DC,District of Columbia,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Race/Ethnicity,Hispanic,11,CAN,CAN5_2,AVGANNNMBR,RACE,HIS
+2010,2014,DC,District of Columbia,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Crude Rate,Race/Ethnicity,"Black, non-Hispanic",11,CAN,CAN5_2,AVGANNCRDRATE,RACE,BLK
+2012,2016,DC,District of Columbia,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Gender,Female,11,CAN,CAN5_2,AVGANNNMBR,GENDER,GENF
+2013,2017,DC,District of Columbia,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Overall,Overall,11,CAN,CAN5_2,AVGANNNMBR,OVERALL,OVR
+2015,2019,DC,District of Columbia,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Gender,Female,11,CAN,CAN5_2,AVGANNNMBR,GENDER,GENF
+2014,2018,FL,Florida,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Gender,Female,12,CAN,CAN5_2,AVGANNNMBR,GENDER,GENF
+2010,2014,ID,Idaho,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Overall,Overall,16,CAN,CAN5_2,AVGANNNMBR,OVERALL,OVR
+2011,2015,ID,Idaho,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Crude Rate,Gender,Female,16,CAN,CAN5_2,AVGANNCRDRATE,GENDER,GENF
+2012,2016,ID,Idaho,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Age-adjusted Rate,Overall,Overall,16,CAN,CAN5_2,AVGANNAGEADJRATE,OVERALL,OVR
+2013,2017,ID,Idaho,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Overall,Overall,16,CAN,CAN5_2,AVGANNNMBR,OVERALL,OVR
+2014,2018,ID,Idaho,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Crude Rate,Race/Ethnicity,Hispanic,16,CAN,CAN5_2,AVGANNCRDRATE,RACE,HIS
+2015,2019,ID,Idaho,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Crude Rate,Gender,Female,16,CAN,CAN5_2,AVGANNCRDRATE,GENDER,GENF
+2008,2012,KS,Kansas,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Race/Ethnicity,Hispanic,20,CAN,CAN5_2,AVGANNNMBR,RACE,HIS
+2013,2017,KY,Kentucky,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",21,CAN,CAN5_2,AVGANNNMBR,RACE,WHT
+2011,2015,MA,Massachusetts,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Race/Ethnicity,Asian or Pacific Islander,25,CAN,CAN5_2,AVGANNNMBR,RACE,APIO
+2014,2018,MA,Massachusetts,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Gender,Male,25,CAN,CAN5_2,AVGANNNMBR,GENDER,GENM
+2015,2019,MD,Maryland,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Crude Rate,Overall,Overall,24,CAN,CAN5_2,AVGANNCRDRATE,OVERALL,OVR
+2014,2018,MI,Michigan,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Overall,Overall,26,CAN,CAN5_2,AVGANNNMBR,OVERALL,OVR
+2012,2016,MN,Minnesota,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Race/Ethnicity,Hispanic,27,CAN,CAN5_2,AVGANNNMBR,RACE,HIS
+2009,2013,NJ,New Jersey,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",34,CAN,CAN5_2,AVGANNNMBR,RACE,WHT
+2011,2015,NJ,New Jersey,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",34,CAN,CAN5_2,AVGANNNMBR,RACE,BLK
+2012,2016,NJ,New Jersey,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",34,CAN,CAN5_2,AVGANNNMBR,RACE,BLK
+2013,2017,NJ,New Jersey,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",34,CAN,CAN5_2,AVGANNNMBR,RACE,WHT
+2014,2018,NJ,New Jersey,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",34,CAN,CAN5_2,AVGANNNMBR,RACE,WHT
+2010,2010,NC,North Carolina,NVSS,Asthma,Asthma mortality rate,Number,Gender,Male,37,AST,AST4_1,NMBR,GENDER,GENM
+2015,2019,NJ,New Jersey,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Overall,Overall,34,CAN,CAN5_2,AVGANNNMBR,OVERALL,OVR
+2008,2012,OH,Ohio,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Race/Ethnicity,Hispanic,39,CAN,CAN5_2,AVGANNNMBR,RACE,HIS
+2014,2018,OH,Ohio,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Overall,Overall,39,CAN,CAN5_2,AVGANNNMBR,OVERALL,OVR
+2010,2014,OK,Oklahoma,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Race/Ethnicity,Hispanic,40,CAN,CAN5_2,AVGANNNMBR,RACE,HIS
+2015,2019,OK,Oklahoma,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Race/Ethnicity,Asian or Pacific Islander,40,CAN,CAN5_2,AVGANNNMBR,RACE,APIO
+2011,2015,OR,Oregon,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Race/Ethnicity,Asian or Pacific Islander,41,CAN,CAN5_2,AVGANNNMBR,RACE,APIO
+2013,2017,OR,Oregon,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Crude Rate,Race/Ethnicity,Hispanic,41,CAN,CAN5_2,AVGANNCRDRATE,RACE,HIS
+2012,2016,SC,South Carolina,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Crude Rate,Gender,Female,45,CAN,CAN5_2,AVGANNCRDRATE,GENDER,GENF
+2013,2017,SC,South Carolina,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Overall,Overall,45,CAN,CAN5_2,AVGANNNMBR,OVERALL,OVR
+2014,2018,SC,South Carolina,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Crude Rate,Race/Ethnicity,"White, non-Hispanic",45,CAN,CAN5_2,AVGANNCRDRATE,RACE,WHT
+2009,2013,TN,Tennessee,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",47,CAN,CAN5_2,AVGANNNMBR,RACE,BLK
+2015,2019,TN,Tennessee,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",47,CAN,CAN5_2,AVGANNNMBR,RACE,WHT
+2013,2017,US,United States,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",59,CAN,CAN5_2,AVGANNNMBR,RACE,BLK
+2015,2019,VT,Vermont,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Crude Rate,Overall,Overall,50,CAN,CAN5_2,AVGANNCRDRATE,OVERALL,OVR
+2012,2016,WI,Wisconsin,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Race/Ethnicity,Asian or Pacific Islander,55,CAN,CAN5_2,AVGANNNMBR,RACE,APIO
+2015,2019,WY,Wyoming,Death Certificate,Cancer,"Cancer of the female breast, mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",56,CAN,CAN5_2,AVGANNNMBR,RACE,WHT
+2011,2015,AL,Alabama,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Gender,Female,01,CAN,CAN6_1,AVGANNNMBR,GENDER,GENF
+2012,2016,AL,Alabama,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Gender,Female,01,CAN,CAN6_1,AVGANNNMBR,GENDER,GENF
+2013,2017,AL,Alabama,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Overall,Overall,01,CAN,CAN6_1,AVGANNNMBR,OVERALL,OVR
+2011,2015,AR,Arkansas,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Gender,Female,05,CAN,CAN6_1,AVGANNNMBR,GENDER,GENF
+2012,2016,AR,Arkansas,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Crude Rate,Race/Ethnicity,"Black, non-Hispanic",05,CAN,CAN6_1,AVGANNCRDRATE,RACE,BLK
+2009,2013,CT,Connecticut,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Gender,Female,09,CAN,CAN6_1,AVGANNNMBR,GENDER,GENF
+2009,2013,DC,District of Columbia,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Gender,Female,11,CAN,CAN6_1,AVGANNNMBR,GENDER,GENF
+2010,2014,DC,District of Columbia,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Overall,Overall,11,CAN,CAN6_1,AVGANNNMBR,OVERALL,OVR
+2012,2016,DC,District of Columbia,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",11,CAN,CAN6_1,AVGANNNMBR,RACE,BLK
+2008,2012,HI,Hawaii,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Overall,Overall,15,CAN,CAN6_1,AVGANNNMBR,OVERALL,OVR
+2013,2017,HI,Hawaii,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Race/Ethnicity,Hispanic,15,CAN,CAN6_1,AVGANNNMBR,RACE,HIS
+2014,2018,HI,Hawaii,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Race/Ethnicity,Asian or Pacific Islander,15,CAN,CAN6_1,AVGANNNMBR,RACE,APIO
+2015,2019,HI,Hawaii,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Gender,Female,15,CAN,CAN6_1,AVGANNNMBR,GENDER,GENF
+2008,2012,IA,Iowa,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Gender,Female,19,CAN,CAN6_1,AVGANNNMBR,GENDER,GENF
+2014,2018,IA,Iowa,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Gender,Female,19,CAN,CAN6_1,AVGANNNMBR,GENDER,GENF
+2015,2019,IA,Iowa,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Crude Rate,Race/Ethnicity,Hispanic,19,CAN,CAN6_1,AVGANNCRDRATE,RACE,HIS
+2015,2019,ID,Idaho,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Race/Ethnicity,Hispanic,16,CAN,CAN6_1,AVGANNNMBR,RACE,HIS
+2012,2016,IL,Illinois,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Gender,Female,17,CAN,CAN6_1,AVGANNNMBR,GENDER,GENF
+2009,2013,LA,Louisiana,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Gender,Female,22,CAN,CAN6_1,AVGANNNMBR,GENDER,GENF
+2009,2013,LA,Louisiana,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Overall,Overall,22,CAN,CAN6_1,AVGANNNMBR,OVERALL,OVR
+2012,2016,LA,Louisiana,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Overall,Overall,22,CAN,CAN6_1,AVGANNNMBR,OVERALL,OVR
+2014,2018,LA,Louisiana,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",22,CAN,CAN6_1,AVGANNNMBR,RACE,BLK
+2015,2019,LA,Louisiana,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",22,CAN,CAN6_1,AVGANNNMBR,RACE,BLK
+2009,2013,MA,Massachusetts,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Overall,Overall,25,CAN,CAN6_1,AVGANNNMBR,OVERALL,OVR
+2010,2014,MA,Massachusetts,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Gender,Male,25,CAN,CAN6_1,AVGANNNMBR,GENDER,GENM
+2012,2016,MA,Massachusetts,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Crude Rate,Gender,Male,25,CAN,CAN6_1,AVGANNCRDRATE,GENDER,GENM
+2014,2018,MA,Massachusetts,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Crude Rate,Gender,Male,25,CAN,CAN6_1,AVGANNCRDRATE,GENDER,GENM
+2008,2012,MD,Maryland,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Race/Ethnicity,Asian or Pacific Islander,24,CAN,CAN6_1,AVGANNNMBR,RACE,APIO
+2014,2018,MD,Maryland,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",24,CAN,CAN6_1,AVGANNNMBR,RACE,BLK
+2008,2012,MI,Michigan,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Gender,Male,26,CAN,CAN6_1,AVGANNNMBR,GENDER,GENM
+2010,2014,MI,Michigan,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",26,CAN,CAN6_1,AVGANNNMBR,RACE,BLK
+2008,2012,MO,Missouri,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Gender,Female,29,CAN,CAN6_1,AVGANNNMBR,GENDER,GENF
+2010,2014,MO,Missouri,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Crude Rate,Gender,Female,29,CAN,CAN6_1,AVGANNCRDRATE,GENDER,GENF
+2015,2019,MO,Missouri,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",29,CAN,CAN6_1,AVGANNNMBR,RACE,BLK
+2009,2013,MT,Montana,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Overall,Overall,30,CAN,CAN6_1,AVGANNNMBR,OVERALL,OVR
+2014,2018,NC,North Carolina,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Gender,Female,37,CAN,CAN6_1,AVGANNNMBR,GENDER,GENF
+2014,2014,IL,Illinois,NVSS,Asthma,Asthma mortality rate,Number,Gender,Male,17,AST,AST4_1,NMBR,GENDER,GENM
+2014,2018,NC,North Carolina,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Race/Ethnicity,Hispanic,37,CAN,CAN6_1,AVGANNNMBR,RACE,HIS
+2009,2013,ND,North Dakota,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Overall,Overall,38,CAN,CAN6_1,AVGANNNMBR,OVERALL,OVR
+2010,2014,ND,North Dakota,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Overall,Overall,38,CAN,CAN6_1,AVGANNNMBR,OVERALL,OVR
+2011,2015,ND,North Dakota,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",38,CAN,CAN6_1,AVGANNNMBR,RACE,WHT
+2012,2016,ND,North Dakota,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",38,CAN,CAN6_1,AVGANNNMBR,RACE,WHT
+2009,2013,NH,New Hampshire,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Gender,Female,33,CAN,CAN6_1,AVGANNNMBR,GENDER,GENF
+2010,2014,NH,New Hampshire,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Gender,Female,33,CAN,CAN6_1,AVGANNNMBR,GENDER,GENF
+2015,2019,OR,Oregon,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Race/Ethnicity,Hispanic,41,CAN,CAN6_1,AVGANNNMBR,RACE,HIS
+2010,2014,RI,Rhode Island,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Overall,Overall,44,CAN,CAN6_1,AVGANNNMBR,OVERALL,OVR
+2012,2016,RI,Rhode Island,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Gender,Female,44,CAN,CAN6_1,AVGANNNMBR,GENDER,GENF
+2012,2016,SD,South Dakota,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Age-adjusted Rate,Gender,Female,46,CAN,CAN6_1,AVGANNAGEADJRATE,GENDER,GENF
+2014,2018,SD,South Dakota,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Overall,Overall,46,CAN,CAN6_1,AVGANNNMBR,OVERALL,OVR
+2008,2012,TN,Tennessee,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Overall,Overall,47,CAN,CAN6_1,AVGANNNMBR,OVERALL,OVR
+2010,2014,TN,Tennessee,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Gender,Female,47,CAN,CAN6_1,AVGANNNMBR,GENDER,GENF
+2012,2016,TN,Tennessee,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Age-adjusted Rate,Gender,Female,47,CAN,CAN6_1,AVGANNAGEADJRATE,GENDER,GENF
+2014,2018,TN,Tennessee,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Overall,Overall,47,CAN,CAN6_1,AVGANNNMBR,OVERALL,OVR
+2015,2019,US,United States,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Crude Rate,Gender,Female,59,CAN,CAN6_1,AVGANNCRDRATE,GENDER,GENF
+2010,2014,UT,Utah,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Race/Ethnicity,Asian or Pacific Islander,49,CAN,CAN6_1,AVGANNNMBR,RACE,APIO
+2013,2017,UT,Utah,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Race/Ethnicity,Hispanic,49,CAN,CAN6_1,AVGANNNMBR,RACE,HIS
+2015,2019,UT,Utah,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Gender,Female,49,CAN,CAN6_1,AVGANNNMBR,GENDER,GENF
+2009,2013,VA,Virginia,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Race/Ethnicity,Asian or Pacific Islander,51,CAN,CAN6_1,AVGANNNMBR,RACE,APIO
+2010,2014,VA,Virginia,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",51,CAN,CAN6_1,AVGANNNMBR,RACE,BLK
+2011,2015,VA,Virginia,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",51,CAN,CAN6_1,AVGANNNMBR,RACE,BLK
+2011,2015,VA,Virginia,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Crude Rate,Race/Ethnicity,"White, non-Hispanic",51,CAN,CAN6_1,AVGANNCRDRATE,RACE,WHT
+2009,2013,VT,Vermont,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Overall,Overall,50,CAN,CAN6_1,AVGANNNMBR,OVERALL,OVR
+2008,2012,WV,West Virginia,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Gender,Female,54,CAN,CAN6_1,AVGANNNMBR,GENDER,GENF
+2011,2015,WV,West Virginia,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",54,CAN,CAN6_1,AVGANNNMBR,RACE,WHT
+2015,2019,WV,West Virginia,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",54,CAN,CAN6_1,AVGANNNMBR,RACE,WHT
+2015,2019,WY,Wyoming,Statewide central cancer registries,Cancer,"Invasive cancer of the cervix, incidence",Average Annual Number,Overall,Overall,56,CAN,CAN6_1,AVGANNNMBR,OVERALL,OVR
+2008,2012,AL,Alabama,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Overall,Overall,01,CAN,CAN6_2,AVGANNNMBR,OVERALL,OVR
+2009,2013,AL,Alabama,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Overall,Overall,01,CAN,CAN6_2,AVGANNNMBR,OVERALL,OVR
+2010,2014,AL,Alabama,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",01,CAN,CAN6_2,AVGANNNMBR,RACE,BLK
+2011,2015,AL,Alabama,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Overall,Overall,01,CAN,CAN6_2,AVGANNNMBR,OVERALL,OVR
+2012,2016,AL,Alabama,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Overall,Overall,01,CAN,CAN6_2,AVGANNNMBR,OVERALL,OVR
+2013,2017,AL,Alabama,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",01,CAN,CAN6_2,AVGANNNMBR,RACE,BLK
+2014,2018,AL,Alabama,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",01,CAN,CAN6_2,AVGANNNMBR,RACE,BLK
+2015,2019,AL,Alabama,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Overall,Overall,01,CAN,CAN6_2,AVGANNNMBR,OVERALL,OVR
+2008,2012,CT,Connecticut,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Overall,Overall,09,CAN,CAN6_2,AVGANNNMBR,OVERALL,OVR
+2009,2013,CT,Connecticut,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",09,CAN,CAN6_2,AVGANNNMBR,RACE,WHT
+2012,2016,CT,Connecticut,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Crude Rate,Overall,Overall,09,CAN,CAN6_2,AVGANNCRDRATE,OVERALL,OVR
+2012,2016,DE,Delaware,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",10,CAN,CAN6_2,AVGANNNMBR,RACE,BLK
+2015,2019,GA,Georgia,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",13,CAN,CAN6_2,AVGANNNMBR,RACE,WHT
+2009,2013,HI,Hawaii,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Gender,Female,15,CAN,CAN6_2,AVGANNNMBR,GENDER,GENF
+2010,2014,HI,Hawaii,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Gender,Female,15,CAN,CAN6_2,AVGANNNMBR,GENDER,GENF
+2011,2015,HI,Hawaii,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Race/Ethnicity,Asian or Pacific Islander,15,CAN,CAN6_2,AVGANNNMBR,RACE,APIO
+2011,2015,HI,Hawaii,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",15,CAN,CAN6_2,AVGANNNMBR,RACE,WHT
+2013,2017,HI,Hawaii,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Overall,Overall,15,CAN,CAN6_2,AVGANNNMBR,OVERALL,OVR
+2008,2012,IL,Illinois,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Gender,Female,17,CAN,CAN6_2,AVGANNNMBR,GENDER,GENF
+2011,2015,IN,Indiana,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Overall,Overall,18,CAN,CAN6_2,AVGANNNMBR,OVERALL,OVR
+2012,2016,IN,Indiana,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Gender,Female,18,CAN,CAN6_2,AVGANNNMBR,GENDER,GENF
+2015,2019,IN,Indiana,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Gender,Female,18,CAN,CAN6_2,AVGANNNMBR,GENDER,GENF
+2008,2012,KS,Kansas,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Crude Rate,Overall,Overall,20,CAN,CAN6_2,AVGANNCRDRATE,OVERALL,OVR
+2009,2013,LA,Louisiana,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Overall,Overall,22,CAN,CAN6_2,AVGANNNMBR,OVERALL,OVR
+2015,2019,LA,Louisiana,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",22,CAN,CAN6_2,AVGANNNMBR,RACE,WHT
+2008,2012,MA,Massachusetts,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Crude Rate,Overall,Overall,25,CAN,CAN6_2,AVGANNCRDRATE,OVERALL,OVR
+2012,2016,MA,Massachusetts,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Overall,Overall,25,CAN,CAN6_2,AVGANNNMBR,OVERALL,OVR
+2014,2018,MA,Massachusetts,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Overall,Overall,25,CAN,CAN6_2,AVGANNNMBR,OVERALL,OVR
+2012,2016,MI,Michigan,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Age-adjusted Rate,Race/Ethnicity,"Black, non-Hispanic",26,CAN,CAN6_2,AVGANNAGEADJRATE,RACE,BLK
+2013,2017,MI,Michigan,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Race/Ethnicity,Hispanic,26,CAN,CAN6_2,AVGANNNMBR,RACE,HIS
+2014,2018,MI,Michigan,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Crude Rate,Overall,Overall,26,CAN,CAN6_2,AVGANNCRDRATE,OVERALL,OVR
+2015,2019,MI,Michigan,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",26,CAN,CAN6_2,AVGANNNMBR,RACE,WHT
+2010,2014,MN,Minnesota,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Age-adjusted Rate,Gender,Male,27,CAN,CAN6_2,AVGANNAGEADJRATE,GENDER,GENM
+2011,2015,MN,Minnesota,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Age-adjusted Rate,Gender,Female,27,CAN,CAN6_2,AVGANNAGEADJRATE,GENDER,GENF
+2012,2016,MN,Minnesota,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Crude Rate,Race/Ethnicity,"White, non-Hispanic",27,CAN,CAN6_2,AVGANNCRDRATE,RACE,WHT
+2013,2017,MN,Minnesota,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",27,CAN,CAN6_2,AVGANNNMBR,RACE,BLK
+2014,2018,MN,Minnesota,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Crude Rate,Gender,Male,27,CAN,CAN6_2,AVGANNCRDRATE,GENDER,GENM
+2009,2013,NJ,New Jersey,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Overall,Overall,34,CAN,CAN6_2,AVGANNNMBR,OVERALL,OVR
+2010,2014,NJ,New Jersey,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Race/Ethnicity,Hispanic,34,CAN,CAN6_2,AVGANNNMBR,RACE,HIS
+2011,2015,NJ,New Jersey,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",34,CAN,CAN6_2,AVGANNNMBR,RACE,BLK
+2013,2017,NJ,New Jersey,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Gender,Female,34,CAN,CAN6_2,AVGANNNMBR,GENDER,GENF
+2014,2018,NJ,New Jersey,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Race/Ethnicity,Hispanic,34,CAN,CAN6_2,AVGANNNMBR,RACE,HIS
+2014,2018,NJ,New Jersey,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",34,CAN,CAN6_2,AVGANNNMBR,RACE,WHT
+2008,2012,NM,New Mexico,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Crude Rate,Overall,Overall,35,CAN,CAN6_2,AVGANNCRDRATE,OVERALL,OVR
+2009,2013,NM,New Mexico,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Crude Rate,Gender,Female,35,CAN,CAN6_2,AVGANNCRDRATE,GENDER,GENF
+2010,2014,NM,New Mexico,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Race/Ethnicity,Hispanic,35,CAN,CAN6_2,AVGANNNMBR,RACE,HIS
+2012,2016,NM,New Mexico,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Race/Ethnicity,American Indian or Alaska Native,35,CAN,CAN6_2,AVGANNNMBR,RACE,AIAO
+2009,2013,NV,Nevada,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Race/Ethnicity,Hispanic,32,CAN,CAN6_2,AVGANNNMBR,RACE,HIS
+2009,2013,OH,Ohio,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Gender,Female,39,CAN,CAN6_2,AVGANNNMBR,GENDER,GENF
+2009,2013,OH,Ohio,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Crude Rate,Race/Ethnicity,"White, non-Hispanic",39,CAN,CAN6_2,AVGANNCRDRATE,RACE,WHT
+2011,2015,PA,Pennsylvania,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Crude Rate,Gender,Female,42,CAN,CAN6_2,AVGANNCRDRATE,GENDER,GENF
+2017,2017,CT,Connecticut,NVSS,Asthma,Asthma mortality rate,Number,Gender,Female,09,AST,AST4_1,NMBR,GENDER,GENF
+2012,2016,PA,Pennsylvania,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Age-adjusted Rate,Race/Ethnicity,"White, non-Hispanic",42,CAN,CAN6_2,AVGANNAGEADJRATE,RACE,WHT
+2013,2017,PA,Pennsylvania,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Age-adjusted Rate,Race/Ethnicity,Hispanic,42,CAN,CAN6_2,AVGANNAGEADJRATE,RACE,HIS
+2014,2018,TX,Texas,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Gender,Female,48,CAN,CAN6_2,AVGANNNMBR,GENDER,GENF
+2008,2012,UT,Utah,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Age-adjusted Rate,Race/Ethnicity,"White, non-Hispanic",49,CAN,CAN6_2,AVGANNAGEADJRATE,RACE,WHT
+2015,2019,UT,Utah,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",49,CAN,CAN6_2,AVGANNNMBR,RACE,WHT
+2015,2019,VT,Vermont,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Overall,Overall,50,CAN,CAN6_2,AVGANNNMBR,OVERALL,OVR
+2011,2015,WA,Washington,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Gender,Female,53,CAN,CAN6_2,AVGANNNMBR,GENDER,GENF
+2011,2015,WA,Washington,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Overall,Overall,53,CAN,CAN6_2,AVGANNNMBR,OVERALL,OVR
+2012,2016,WA,Washington,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Crude Rate,Overall,Overall,53,CAN,CAN6_2,AVGANNCRDRATE,OVERALL,OVR
+2014,2018,WA,Washington,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Age-adjusted Rate,Gender,Female,53,CAN,CAN6_2,AVGANNAGEADJRATE,GENDER,GENF
+2014,2018,WA,Washington,Death Certificate,Cancer,"Cancer of the female cervix, mortality",Average Annual Number,Overall,Overall,53,CAN,CAN6_2,AVGANNNMBR,OVERALL,OVR
+2013,2017,AK,Alaska,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Gender,Male,02,CAN,CAN7_1,AVGANNNMBR,GENDER,GENM
+2015,2019,AK,Alaska,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Race/Ethnicity,Hispanic,02,CAN,CAN7_1,AVGANNNMBR,RACE,HIS
+2009,2013,AZ,Arizona,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Race/Ethnicity,Hispanic,04,CAN,CAN7_1,AVGANNNMBR,RACE,HIS
+2014,2018,AZ,Arizona,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Crude Rate,Overall,Overall,04,CAN,CAN7_1,AVGANNCRDRATE,OVERALL,OVR
+2008,2012,CT,Connecticut,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Gender,Female,09,CAN,CAN7_1,AVGANNNMBR,GENDER,GENF
+2010,2014,IA,Iowa,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Gender,Male,19,CAN,CAN7_1,AVGANNNMBR,GENDER,GENM
+2012,2016,IA,Iowa,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Overall,Overall,19,CAN,CAN7_1,AVGANNNMBR,OVERALL,OVR
+2013,2017,IA,Iowa,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Race/Ethnicity,Hispanic,19,CAN,CAN7_1,AVGANNNMBR,RACE,HIS
+2010,2014,ID,Idaho,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Race/Ethnicity,Hispanic,16,CAN,CAN7_1,AVGANNNMBR,RACE,HIS
+2014,2018,ID,Idaho,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Age-adjusted Rate,Overall,Overall,16,CAN,CAN7_1,AVGANNAGEADJRATE,OVERALL,OVR
+2015,2019,ID,Idaho,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Crude Rate,Race/Ethnicity,Hispanic,16,CAN,CAN7_1,AVGANNCRDRATE,RACE,HIS
+2008,2012,IL,Illinois,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Overall,Overall,17,CAN,CAN7_1,AVGANNNMBR,OVERALL,OVR
+2011,2015,IL,Illinois,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Crude Rate,Overall,Overall,17,CAN,CAN7_1,AVGANNCRDRATE,OVERALL,OVR
+2012,2016,IL,Illinois,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Gender,Male,17,CAN,CAN7_1,AVGANNNMBR,GENDER,GENM
+2014,2018,WA,Washington,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Male,53,CAN,CAN7_2,AVGANNNMBR,GENDER,GENM
+2009,2013,MA,Massachusetts,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Gender,Female,25,CAN,CAN7_1,AVGANNNMBR,GENDER,GENF
+2008,2012,MD,Maryland,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Gender,Female,24,CAN,CAN7_1,AVGANNNMBR,GENDER,GENF
+2009,2013,ME,Maine,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Age-adjusted Rate,Race/Ethnicity,American Indian or Alaska Native,23,CAN,CAN7_1,AVGANNAGEADJRATE,RACE,AIAO
+2010,2014,ME,Maine,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Gender,Male,23,CAN,CAN7_1,AVGANNNMBR,GENDER,GENM
+2011,2015,ME,Maine,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Gender,Male,23,CAN,CAN7_1,AVGANNNMBR,GENDER,GENM
+2012,2016,MI,Michigan,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Overall,Overall,26,CAN,CAN7_1,AVGANNNMBR,OVERALL,OVR
+2009,2013,NH,New Hampshire,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",33,CAN,CAN7_1,AVGANNNMBR,RACE,WHT
+2009,2013,NV,Nevada,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Gender,Female,32,CAN,CAN7_1,AVGANNNMBR,GENDER,GENF
+2010,2014,NV,Nevada,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Race/Ethnicity,Hispanic,32,CAN,CAN7_1,AVGANNNMBR,RACE,HIS
+2010,2014,NY,New York,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Gender,Female,36,CAN,CAN7_1,AVGANNNMBR,GENDER,GENF
+2011,2015,NY,New York,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Overall,Overall,36,CAN,CAN7_1,AVGANNNMBR,OVERALL,OVR
+2013,2017,NY,New York,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Gender,Male,36,CAN,CAN7_1,AVGANNNMBR,GENDER,GENM
+2008,2012,OR,Oregon,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Gender,Female,41,CAN,CAN7_1,AVGANNNMBR,GENDER,GENF
+2009,2013,OR,Oregon,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Race/Ethnicity,Hispanic,41,CAN,CAN7_1,AVGANNNMBR,RACE,HIS
+2010,2014,OR,Oregon,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Overall,Overall,41,CAN,CAN7_1,AVGANNNMBR,OVERALL,OVR
+2013,2017,OR,Oregon,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Gender,Female,41,CAN,CAN7_1,AVGANNNMBR,GENDER,GENF
+2009,2013,RI,Rhode Island,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",44,CAN,CAN7_1,AVGANNNMBR,RACE,BLK
+2011,2015,RI,Rhode Island,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Gender,Female,44,CAN,CAN7_1,AVGANNNMBR,GENDER,GENF
+2012,2016,RI,Rhode Island,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",44,CAN,CAN7_1,AVGANNNMBR,RACE,WHT
+2014,2018,RI,Rhode Island,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Race/Ethnicity,Hispanic,44,CAN,CAN7_1,AVGANNNMBR,RACE,HIS
+2008,2012,SC,South Carolina,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Gender,Female,45,CAN,CAN7_1,AVGANNNMBR,GENDER,GENF
+2010,2014,SC,South Carolina,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Race/Ethnicity,Hispanic,45,CAN,CAN7_1,AVGANNNMBR,RACE,HIS
+2014,2018,SD,South Dakota,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Gender,Female,46,CAN,CAN7_1,AVGANNNMBR,GENDER,GENF
+2008,2012,TX,Texas,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Race/Ethnicity,Asian or Pacific Islander,48,CAN,CAN7_1,AVGANNNMBR,RACE,APIO
+2010,2014,TX,Texas,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Gender,Male,48,CAN,CAN7_1,AVGANNNMBR,GENDER,GENM
+2011,2015,TX,Texas,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Gender,Male,48,CAN,CAN7_1,AVGANNNMBR,GENDER,GENM
+2008,2012,US,United States,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Gender,Female,59,CAN,CAN7_1,AVGANNNMBR,GENDER,GENF
+2010,2014,UT,Utah,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Gender,Female,49,CAN,CAN7_1,AVGANNNMBR,GENDER,GENF
+2011,2015,UT,Utah,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Race/Ethnicity,Hispanic,49,CAN,CAN7_1,AVGANNNMBR,RACE,HIS
+2011,2015,VA,Virginia,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Gender,Male,51,CAN,CAN7_1,AVGANNNMBR,GENDER,GENM
+2008,2012,VT,Vermont,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Crude Rate,Overall,Overall,50,CAN,CAN7_1,AVGANNCRDRATE,OVERALL,OVR
+2010,2014,WV,West Virginia,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",54,CAN,CAN7_1,AVGANNNMBR,RACE,WHT
+2014,2018,WV,West Virginia,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",54,CAN,CAN7_1,AVGANNNMBR,RACE,BLK
+2010,2014,WY,Wyoming,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",56,CAN,CAN7_1,AVGANNNMBR,RACE,WHT
+2012,2016,WY,Wyoming,Statewide central cancer registries,Cancer,"Cancer of the colon and rectum (colorectal), incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",56,CAN,CAN7_1,AVGANNNMBR,RACE,WHT
+2009,2013,AL,Alabama,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",01,CAN,CAN7_2,AVGANNNMBR,RACE,BLK
+2015,2019,AZ,Arizona,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Male,04,CAN,CAN7_2,AVGANNNMBR,GENDER,GENM
+2015,2019,CA,California,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Male,06,CAN,CAN7_2,AVGANNNMBR,GENDER,GENM
+2011,2015,CO,Colorado,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Male,08,CAN,CAN7_2,AVGANNNMBR,GENDER,GENM
+2012,2016,CO,Colorado,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Male,08,CAN,CAN7_2,AVGANNNMBR,GENDER,GENM
+2013,2017,CO,Colorado,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Race/Ethnicity,Asian or Pacific Islander,08,CAN,CAN7_2,AVGANNNMBR,RACE,APIO
+2014,2018,CO,Colorado,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Race/Ethnicity,Hispanic,08,CAN,CAN7_2,AVGANNNMBR,RACE,HIS
+2008,2012,DE,Delaware,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",10,CAN,CAN7_2,AVGANNNMBR,RACE,BLK
+2009,2013,DE,Delaware,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Male,10,CAN,CAN7_2,AVGANNNMBR,GENDER,GENM
+2011,2015,DE,Delaware,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",10,CAN,CAN7_2,AVGANNNMBR,RACE,WHT
+2012,2016,DE,Delaware,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Age-adjusted Rate,Overall,Overall,10,CAN,CAN7_2,AVGANNAGEADJRATE,OVERALL,OVR
+2013,2017,DE,Delaware,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Female,10,CAN,CAN7_2,AVGANNNMBR,GENDER,GENF
+2014,2018,DE,Delaware,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Crude Rate,Overall,Overall,10,CAN,CAN7_2,AVGANNCRDRATE,OVERALL,OVR
+2009,2013,FL,Florida,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",12,CAN,CAN7_2,AVGANNNMBR,RACE,BLK
+2010,2014,FL,Florida,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",12,CAN,CAN7_2,AVGANNNMBR,RACE,WHT
+2011,2015,FL,Florida,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Female,12,CAN,CAN7_2,AVGANNNMBR,GENDER,GENF
+2012,2016,FL,Florida,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Race/Ethnicity,Hispanic,12,CAN,CAN7_2,AVGANNNMBR,RACE,HIS
+2014,2018,FL,Florida,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Race/Ethnicity,American Indian or Alaska Native,12,CAN,CAN7_2,AVGANNNMBR,RACE,AIAO
+2014,2018,FL,Florida,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Crude Rate,Overall,Overall,12,CAN,CAN7_2,AVGANNCRDRATE,OVERALL,OVR
+2014,2018,IA,Iowa,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Overall,Overall,19,CAN,CAN7_2,AVGANNNMBR,OVERALL,OVR
+2015,2019,ID,Idaho,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Overall,Overall,16,CAN,CAN7_2,AVGANNNMBR,OVERALL,OVR
+2008,2012,IL,Illinois,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Crude Rate,Gender,Male,17,CAN,CAN7_2,AVGANNCRDRATE,GENDER,GENM
+2009,2013,IL,Illinois,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Age-adjusted Rate,Gender,Female,17,CAN,CAN7_2,AVGANNAGEADJRATE,GENDER,GENF
+2012,2016,IL,Illinois,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Female,17,CAN,CAN7_2,AVGANNNMBR,GENDER,GENF
+2013,2017,IL,Illinois,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Age-adjusted Rate,Gender,Female,17,CAN,CAN7_2,AVGANNAGEADJRATE,GENDER,GENF
+2014,2018,IL,Illinois,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Crude Rate,Gender,Female,17,CAN,CAN7_2,AVGANNCRDRATE,GENDER,GENF
+2015,2019,IL,Illinois,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Age-adjusted Rate,Overall,Overall,17,CAN,CAN7_2,AVGANNAGEADJRATE,OVERALL,OVR
+2008,2012,KS,Kansas,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Female,20,CAN,CAN7_2,AVGANNNMBR,GENDER,GENF
+2010,2014,KS,Kansas,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Race/Ethnicity,Hispanic,20,CAN,CAN7_2,AVGANNNMBR,RACE,HIS
+2013,2017,KS,Kansas,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Crude Rate,Overall,Overall,20,CAN,CAN7_2,AVGANNCRDRATE,OVERALL,OVR
+2014,2018,KS,Kansas,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Age-adjusted Rate,Overall,Overall,20,CAN,CAN7_2,AVGANNAGEADJRATE,OVERALL,OVR
+2015,2019,KS,Kansas,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Race/Ethnicity,Hispanic,20,CAN,CAN7_2,AVGANNNMBR,RACE,HIS
+2010,2014,LA,Louisiana,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Overall,Overall,22,CAN,CAN7_2,AVGANNNMBR,OVERALL,OVR
+2012,2016,LA,Louisiana,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Race/Ethnicity,Hispanic,22,CAN,CAN7_2,AVGANNNMBR,RACE,HIS
+2011,2015,MA,Massachusetts,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Crude Rate,Gender,Female,25,CAN,CAN7_2,AVGANNCRDRATE,GENDER,GENF
+2008,2012,ME,Maine,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Overall,Overall,23,CAN,CAN7_2,AVGANNNMBR,OVERALL,OVR
+2009,2013,ME,Maine,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Male,23,CAN,CAN7_2,AVGANNNMBR,GENDER,GENM
+2010,2014,ME,Maine,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Overall,Overall,23,CAN,CAN7_2,AVGANNNMBR,OVERALL,OVR
+2011,2015,ME,Maine,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Female,23,CAN,CAN7_2,AVGANNNMBR,GENDER,GENF
+2012,2016,ME,Maine,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Crude Rate,Overall,Overall,23,CAN,CAN7_2,AVGANNCRDRATE,OVERALL,OVR
+2015,2019,ME,Maine,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Female,23,CAN,CAN7_2,AVGANNNMBR,GENDER,GENF
+2011,2015,MI,Michigan,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Race/Ethnicity,Hispanic,26,CAN,CAN7_2,AVGANNNMBR,RACE,HIS
+2012,2016,MI,Michigan,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Crude Rate,Overall,Overall,26,CAN,CAN7_2,AVGANNCRDRATE,OVERALL,OVR
+2013,2017,MI,Michigan,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Overall,Overall,26,CAN,CAN7_2,AVGANNNMBR,OVERALL,OVR
+2014,2018,MI,Michigan,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Crude Rate,Race/Ethnicity,Hispanic,26,CAN,CAN7_2,AVGANNCRDRATE,RACE,HIS
+2015,2019,MI,Michigan,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Female,26,CAN,CAN7_2,AVGANNNMBR,GENDER,GENF
+2008,2012,MN,Minnesota,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Race/Ethnicity,Hispanic,27,CAN,CAN7_2,AVGANNNMBR,RACE,HIS
+2009,2013,MN,Minnesota,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Male,27,CAN,CAN7_2,AVGANNNMBR,GENDER,GENM
+2010,2014,MN,Minnesota,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Male,27,CAN,CAN7_2,AVGANNNMBR,GENDER,GENM
+2012,2016,MN,Minnesota,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Male,27,CAN,CAN7_2,AVGANNNMBR,GENDER,GENM
+2013,2017,MN,Minnesota,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Male,27,CAN,CAN7_2,AVGANNNMBR,GENDER,GENM
+2009,2013,MO,Missouri,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Race/Ethnicity,Hispanic,29,CAN,CAN7_2,AVGANNNMBR,RACE,HIS
+2010,2014,MO,Missouri,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Female,29,CAN,CAN7_2,AVGANNNMBR,GENDER,GENF
+2013,2017,MT,Montana,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Crude Rate,Gender,Female,30,CAN,CAN7_2,AVGANNCRDRATE,GENDER,GENF
+2015,2019,MT,Montana,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Overall,Overall,30,CAN,CAN7_2,AVGANNNMBR,OVERALL,OVR
+2009,2013,OH,Ohio,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",39,CAN,CAN7_2,AVGANNNMBR,RACE,WHT
+2010,2014,OH,Ohio,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Race/Ethnicity,Hispanic,39,CAN,CAN7_2,AVGANNNMBR,RACE,HIS
+2011,2015,OH,Ohio,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Overall,Overall,39,CAN,CAN7_2,AVGANNNMBR,OVERALL,OVR
+2012,2016,OH,Ohio,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Overall,Overall,39,CAN,CAN7_2,AVGANNNMBR,OVERALL,OVR
+2013,2017,OH,Ohio,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Male,39,CAN,CAN7_2,AVGANNNMBR,GENDER,GENM
+2015,2019,OH,Ohio,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",39,CAN,CAN7_2,AVGANNNMBR,RACE,BLK
+2008,2012,SC,South Carolina,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Male,45,CAN,CAN7_2,AVGANNNMBR,GENDER,GENM
+2009,2013,US,United States,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Overall,Overall,59,CAN,CAN7_2,AVGANNNMBR,OVERALL,OVR
+2010,2014,US,United States,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",59,CAN,CAN7_2,AVGANNNMBR,RACE,BLK
+2013,2017,US,United States,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Overall,Overall,59,CAN,CAN7_2,AVGANNNMBR,OVERALL,OVR
+2011,2015,VA,Virginia,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Overall,Overall,51,CAN,CAN7_2,AVGANNNMBR,OVERALL,OVR
+2010,2014,WA,Washington,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Male,53,CAN,CAN7_2,AVGANNNMBR,GENDER,GENM
+2011,2015,WA,Washington,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Male,53,CAN,CAN7_2,AVGANNNMBR,GENDER,GENM
+2013,2017,WA,Washington,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Male,53,CAN,CAN7_2,AVGANNNMBR,GENDER,GENM
+2008,2012,WI,Wisconsin,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Female,55,CAN,CAN7_2,AVGANNNMBR,GENDER,GENF
+2009,2013,WI,Wisconsin,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",55,CAN,CAN7_2,AVGANNNMBR,RACE,BLK
+2010,2014,WI,Wisconsin,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Female,55,CAN,CAN7_2,AVGANNNMBR,GENDER,GENF
+2011,2015,WI,Wisconsin,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Race/Ethnicity,Hispanic,55,CAN,CAN7_2,AVGANNNMBR,RACE,HIS
+2011,2015,WI,Wisconsin,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Male,55,CAN,CAN7_2,AVGANNNMBR,GENDER,GENM
+2012,2016,WI,Wisconsin,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Male,55,CAN,CAN7_2,AVGANNNMBR,GENDER,GENM
+2013,2017,WI,Wisconsin,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Male,55,CAN,CAN7_2,AVGANNNMBR,GENDER,GENM
+2014,2018,WI,Wisconsin,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Gender,Male,55,CAN,CAN7_2,AVGANNNMBR,GENDER,GENM
+2015,2019,WV,West Virginia,Death Certificate,Cancer,"Cancer of the colon and rectum (colorectal), mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",54,CAN,CAN7_2,AVGANNNMBR,RACE,WHT
+2013,2017,AK,Alaska,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Overall,Overall,02,CAN,CAN8_1,AVGANNNMBR,OVERALL,OVR
+2014,2018,AK,Alaska,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Gender,Male,02,CAN,CAN8_1,AVGANNNMBR,GENDER,GENM
+2015,2019,CO,Colorado,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",08,CAN,CAN8_1,AVGANNNMBR,RACE,WHT
+2015,2019,DC,District of Columbia,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Gender,Male,11,CAN,CAN8_1,AVGANNNMBR,GENDER,GENM
+2009,2013,GA,Georgia,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Gender,Male,13,CAN,CAN8_1,AVGANNNMBR,GENDER,GENM
+2011,2015,IA,Iowa,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",19,CAN,CAN8_1,AVGANNNMBR,RACE,BLK
+2015,2019,IL,Illinois,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Gender,Female,17,CAN,CAN8_1,AVGANNNMBR,GENDER,GENF
+2013,2017,MA,Massachusetts,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Race/Ethnicity,Asian or Pacific Islander,25,CAN,CAN8_1,AVGANNNMBR,RACE,APIO
+2015,2019,MA,Massachusetts,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Gender,Female,25,CAN,CAN8_1,AVGANNNMBR,GENDER,GENF
+2010,2014,MS,Mississippi,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Race/Ethnicity,Hispanic,28,CAN,CAN8_1,AVGANNNMBR,RACE,HIS
+2012,2016,MS,Mississippi,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Race/Ethnicity,Asian or Pacific Islander,28,CAN,CAN8_1,AVGANNNMBR,RACE,APIO
+2012,2016,MS,Mississippi,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Gender,Male,28,CAN,CAN8_1,AVGANNNMBR,GENDER,GENM
+2013,2017,MS,Mississippi,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Race/Ethnicity,Hispanic,28,CAN,CAN8_1,AVGANNNMBR,RACE,HIS
+2008,2012,MT,Montana,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Gender,Female,30,CAN,CAN8_1,AVGANNNMBR,GENDER,GENF
+2009,2013,MT,Montana,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Age-adjusted Rate,Gender,Female,30,CAN,CAN8_1,AVGANNAGEADJRATE,GENDER,GENF
+2010,2014,MT,Montana,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Gender,Male,30,CAN,CAN8_1,AVGANNNMBR,GENDER,GENM
+2011,2015,MT,Montana,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Gender,Male,30,CAN,CAN8_1,AVGANNNMBR,GENDER,GENM
+2013,2017,MT,Montana,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",30,CAN,CAN8_1,AVGANNNMBR,RACE,WHT
+2015,2019,MT,Montana,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Overall,Overall,30,CAN,CAN8_1,AVGANNNMBR,OVERALL,OVR
+2009,2013,NH,New Hampshire,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",33,CAN,CAN8_1,AVGANNNMBR,RACE,WHT
+2010,2014,NH,New Hampshire,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Overall,Overall,33,CAN,CAN8_1,AVGANNNMBR,OVERALL,OVR
+2011,2015,NH,New Hampshire,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Gender,Male,33,CAN,CAN8_1,AVGANNNMBR,GENDER,GENM
+2013,2017,NH,New Hampshire,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Crude Rate,Race/Ethnicity,Asian or Pacific Islander,33,CAN,CAN8_1,AVGANNCRDRATE,RACE,APIO
+2015,2019,NH,New Hampshire,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Overall,Overall,33,CAN,CAN8_1,AVGANNNMBR,OVERALL,OVR
+2009,2013,NV,Nevada,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Gender,Female,32,CAN,CAN8_1,AVGANNNMBR,GENDER,GENF
+2010,2014,NV,Nevada,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Gender,Male,32,CAN,CAN8_1,AVGANNNMBR,GENDER,GENM
+2014,2018,NY,New York,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",36,CAN,CAN8_1,AVGANNNMBR,RACE,BLK
+2009,2013,OH,Ohio,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Gender,Male,39,CAN,CAN8_1,AVGANNNMBR,GENDER,GENM
+2010,2014,OH,Ohio,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Race/Ethnicity,Hispanic,39,CAN,CAN8_1,AVGANNNMBR,RACE,HIS
+2011,2015,OH,Ohio,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Gender,Male,39,CAN,CAN8_1,AVGANNNMBR,GENDER,GENM
+2012,2016,OH,Ohio,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Overall,Overall,39,CAN,CAN8_1,AVGANNNMBR,OVERALL,OVR
+2013,2017,OH,Ohio,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Gender,Male,39,CAN,CAN8_1,AVGANNNMBR,GENDER,GENM
+2014,2018,OH,Ohio,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Race/Ethnicity,Hispanic,39,CAN,CAN8_1,AVGANNNMBR,RACE,HIS
+2008,2012,RI,Rhode Island,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Crude Rate,Gender,Female,44,CAN,CAN8_1,AVGANNCRDRATE,GENDER,GENF
+2011,2015,RI,Rhode Island,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Race/Ethnicity,Hispanic,44,CAN,CAN8_1,AVGANNNMBR,RACE,HIS
+2012,2016,RI,Rhode Island,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Gender,Male,44,CAN,CAN8_1,AVGANNNMBR,GENDER,GENM
+2014,2018,RI,Rhode Island,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",44,CAN,CAN8_1,AVGANNNMBR,RACE,WHT
+2011,2015,WV,West Virginia,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Race/Ethnicity,Hispanic,54,CAN,CAN8_1,AVGANNNMBR,RACE,HIS
+2014,2018,WV,West Virginia,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Gender,Female,54,CAN,CAN8_1,AVGANNNMBR,GENDER,GENF
+2008,2012,WY,Wyoming,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Crude Rate,Gender,Male,56,CAN,CAN8_1,AVGANNCRDRATE,GENDER,GENM
+2009,2013,WY,Wyoming,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Gender,Female,56,CAN,CAN8_1,AVGANNNMBR,GENDER,GENF
+2010,2014,WY,Wyoming,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",56,CAN,CAN8_1,AVGANNNMBR,RACE,WHT
+2011,2015,WY,Wyoming,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Race/Ethnicity,Hispanic,56,CAN,CAN8_1,AVGANNNMBR,RACE,HIS
+2012,2016,WY,Wyoming,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Race/Ethnicity,Hispanic,56,CAN,CAN8_1,AVGANNNMBR,RACE,HIS
+2013,2017,WY,Wyoming,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",56,CAN,CAN8_1,AVGANNNMBR,RACE,WHT
+2014,2018,WY,Wyoming,Statewide central cancer registries,Cancer,"Cancer of the lung and bronchus, incidence",Average Annual Crude Rate,Race/Ethnicity,Hispanic,56,CAN,CAN8_1,AVGANNCRDRATE,RACE,HIS
+2012,2016,AL,Alabama,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Gender,Female,01,CAN,CAN8_2,AVGANNNMBR,GENDER,GENF
+2014,2018,AL,Alabama,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Gender,Female,01,CAN,CAN8_2,AVGANNNMBR,GENDER,GENF
+2015,2019,AR,Arkansas,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",05,CAN,CAN8_2,AVGANNNMBR,RACE,BLK
+2010,2014,AZ,Arizona,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Overall,Overall,04,CAN,CAN8_2,AVGANNNMBR,OVERALL,OVR
+2009,2013,CA,California,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Gender,Male,06,CAN,CAN8_2,AVGANNNMBR,GENDER,GENM
+2008,2012,CO,Colorado,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Overall,Overall,08,CAN,CAN8_2,AVGANNNMBR,OVERALL,OVR
+2010,2014,CO,Colorado,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",08,CAN,CAN8_2,AVGANNNMBR,RACE,BLK
+2012,2016,CO,Colorado,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Gender,Male,08,CAN,CAN8_2,AVGANNNMBR,GENDER,GENM
+2014,2018,FL,Florida,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Race/Ethnicity,Hispanic,12,CAN,CAN8_2,AVGANNNMBR,RACE,HIS
+2014,2018,HI,Hawaii,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Gender,Male,15,CAN,CAN8_2,AVGANNNMBR,GENDER,GENM
+2008,2012,IA,Iowa,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Gender,Female,19,CAN,CAN8_2,AVGANNNMBR,GENDER,GENF
+2012,2016,IA,Iowa,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Gender,Female,19,CAN,CAN8_2,AVGANNNMBR,GENDER,GENF
+2008,2012,ID,Idaho,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Race/Ethnicity,American Indian or Alaska Native,16,CAN,CAN8_2,AVGANNNMBR,RACE,AIAO
+2013,2017,ID,Idaho,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Overall,Overall,16,CAN,CAN8_2,AVGANNNMBR,OVERALL,OVR
+2015,2019,ID,Idaho,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Crude Rate,Gender,Female,16,CAN,CAN8_2,AVGANNCRDRATE,GENDER,GENF
+2008,2012,IL,Illinois,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Gender,Male,17,CAN,CAN8_2,AVGANNNMBR,GENDER,GENM
+2014,2018,IL,Illinois,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Gender,Female,17,CAN,CAN8_2,AVGANNNMBR,GENDER,GENF
+2008,2012,KS,Kansas,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Overall,Overall,20,CAN,CAN8_2,AVGANNNMBR,OVERALL,OVR
+2009,2013,KS,Kansas,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Gender,Male,20,CAN,CAN8_2,AVGANNNMBR,GENDER,GENM
+2012,2016,KS,Kansas,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Gender,Male,20,CAN,CAN8_2,AVGANNNMBR,GENDER,GENM
+2014,2018,KS,Kansas,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Gender,Male,20,CAN,CAN8_2,AVGANNNMBR,GENDER,GENM
+2015,2019,KS,Kansas,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Overall,Overall,20,CAN,CAN8_2,AVGANNNMBR,OVERALL,OVR
+2014,2018,KY,Kentucky,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Gender,Male,21,CAN,CAN8_2,AVGANNNMBR,GENDER,GENM
+2012,2016,LA,Louisiana,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Race/Ethnicity,Hispanic,22,CAN,CAN8_2,AVGANNNMBR,RACE,HIS
+2015,2019,LA,Louisiana,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Gender,Male,22,CAN,CAN8_2,AVGANNNMBR,GENDER,GENM
+2011,2015,MD,Maryland,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Gender,Male,24,CAN,CAN8_2,AVGANNNMBR,GENDER,GENM
+2015,2019,MD,Maryland,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Race/Ethnicity,Hispanic,24,CAN,CAN8_2,AVGANNNMBR,RACE,HIS
+2008,2012,MI,Michigan,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",26,CAN,CAN8_2,AVGANNNMBR,RACE,BLK
+2011,2015,MI,Michigan,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",26,CAN,CAN8_2,AVGANNNMBR,RACE,BLK
+2008,2012,MN,Minnesota,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",27,CAN,CAN8_2,AVGANNNMBR,RACE,WHT
+2013,2017,MN,Minnesota,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",27,CAN,CAN8_2,AVGANNNMBR,RACE,WHT
+2008,2012,MO,Missouri,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Gender,Male,29,CAN,CAN8_2,AVGANNNMBR,GENDER,GENM
+2008,2012,MO,Missouri,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",29,CAN,CAN8_2,AVGANNNMBR,RACE,WHT
+2012,2016,MS,Mississippi,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Gender,Male,28,CAN,CAN8_2,AVGANNNMBR,GENDER,GENM
+2013,2017,MT,Montana,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Gender,Female,30,CAN,CAN8_2,AVGANNNMBR,GENDER,GENF
+2014,2018,MT,Montana,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Gender,Female,30,CAN,CAN8_2,AVGANNNMBR,GENDER,GENF
+2008,2012,NE,Nebraska,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Crude Rate,Race/Ethnicity,Hispanic,31,CAN,CAN8_2,AVGANNCRDRATE,RACE,HIS
+2011,2015,NE,Nebraska,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Gender,Male,31,CAN,CAN8_2,AVGANNNMBR,GENDER,GENM
+2013,2017,NE,Nebraska,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Gender,Female,31,CAN,CAN8_2,AVGANNNMBR,GENDER,GENF
+2014,2018,NE,Nebraska,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Race/Ethnicity,Asian or Pacific Islander,31,CAN,CAN8_2,AVGANNNMBR,RACE,APIO
+2015,2019,NE,Nebraska,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Crude Rate,Overall,Overall,31,CAN,CAN8_2,AVGANNCRDRATE,OVERALL,OVR
+2008,2012,NJ,New Jersey,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",34,CAN,CAN8_2,AVGANNNMBR,RACE,BLK
+2009,2013,NJ,New Jersey,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",34,CAN,CAN8_2,AVGANNNMBR,RACE,WHT
+2010,2014,NJ,New Jersey,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Race/Ethnicity,Hispanic,34,CAN,CAN8_2,AVGANNNMBR,RACE,HIS
+2011,2015,NJ,New Jersey,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Race/Ethnicity,Hispanic,34,CAN,CAN8_2,AVGANNNMBR,RACE,HIS
+2012,2016,NJ,New Jersey,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Race/Ethnicity,Hispanic,34,CAN,CAN8_2,AVGANNNMBR,RACE,HIS
+2013,2017,NJ,New Jersey,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Overall,Overall,34,CAN,CAN8_2,AVGANNNMBR,OVERALL,OVR
+2014,2018,NJ,New Jersey,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Gender,Male,34,CAN,CAN8_2,AVGANNNMBR,GENDER,GENM
+2013,2017,NM,New Mexico,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Gender,Female,35,CAN,CAN8_2,AVGANNNMBR,GENDER,GENF
+2013,2017,NV,Nevada,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Overall,Overall,32,CAN,CAN8_2,AVGANNNMBR,OVERALL,OVR
+2008,2012,OK,Oklahoma,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Overall,Overall,40,CAN,CAN8_2,AVGANNNMBR,OVERALL,OVR
+2011,2015,OK,Oklahoma,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Overall,Overall,40,CAN,CAN8_2,AVGANNNMBR,OVERALL,OVR
+2011,2011,WA,Washington,NVSS,Asthma,Asthma mortality rate,Number,Gender,Male,53,AST,AST4_1,NMBR,GENDER,GENM
+2013,2017,OK,Oklahoma,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Overall,Overall,40,CAN,CAN8_2,AVGANNNMBR,OVERALL,OVR
+2015,2019,OK,Oklahoma,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",40,CAN,CAN8_2,AVGANNNMBR,RACE,BLK
+2009,2013,TN,Tennessee,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Gender,Female,47,CAN,CAN8_2,AVGANNNMBR,GENDER,GENF
+2012,2016,TN,Tennessee,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Gender,Male,47,CAN,CAN8_2,AVGANNNMBR,GENDER,GENM
+2015,2019,TN,Tennessee,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Overall,Overall,47,CAN,CAN8_2,AVGANNNMBR,OVERALL,OVR
+2011,2015,US,United States,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Gender,Female,59,CAN,CAN8_2,AVGANNNMBR,GENDER,GENF
+2011,2015,VA,Virginia,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Race/Ethnicity,American Indian or Alaska Native,51,CAN,CAN8_2,AVGANNNMBR,RACE,AIAO
+2012,2016,WY,Wyoming,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Gender,Male,56,CAN,CAN8_2,AVGANNNMBR,GENDER,GENM
+2013,2017,WY,Wyoming,Death Certificate,Cancer,"Cancer of the lung and bronchus, mortality",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",56,CAN,CAN8_2,AVGANNNMBR,RACE,WHT
+2012,2016,AL,Alabama,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",01,CAN,CAN9_1,AVGANNNMBR,RACE,BLK
+2012,2016,AL,Alabama,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",01,CAN,CAN9_1,AVGANNNMBR,RACE,WHT
+2014,2018,AL,Alabama,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Gender,Female,01,CAN,CAN9_1,AVGANNNMBR,GENDER,GENF
+2014,2018,AL,Alabama,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Gender,Male,01,CAN,CAN9_1,AVGANNNMBR,GENDER,GENM
+2009,2013,AR,Arkansas,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Gender,Male,05,CAN,CAN9_1,AVGANNNMBR,GENDER,GENM
+2013,2017,AR,Arkansas,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",05,CAN,CAN9_1,AVGANNNMBR,RACE,WHT
+2015,2019,CA,California,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Age-adjusted Rate,Gender,Male,06,CAN,CAN9_1,AVGANNAGEADJRATE,GENDER,GENM
+2008,2012,CO,Colorado,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Race/Ethnicity,Hispanic,08,CAN,CAN9_1,AVGANNNMBR,RACE,HIS
+2010,2014,CO,Colorado,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Gender,Male,08,CAN,CAN9_1,AVGANNNMBR,GENDER,GENM
+2012,2016,CO,Colorado,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Race/Ethnicity,American Indian or Alaska Native,08,CAN,CAN9_1,AVGANNNMBR,RACE,AIAO
+2012,2016,CO,Colorado,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",08,CAN,CAN9_1,AVGANNNMBR,RACE,WHT
+2015,2019,DC,District of Columbia,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",11,CAN,CAN9_1,AVGANNNMBR,RACE,BLK
+2009,2013,FL,Florida,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Gender,Female,12,CAN,CAN9_1,AVGANNNMBR,GENDER,GENF
+2012,2016,FL,Florida,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Gender,Female,12,CAN,CAN9_1,AVGANNNMBR,GENDER,GENF
+2013,2017,HI,Hawaii,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Crude Rate,Gender,Male,15,CAN,CAN9_1,AVGANNCRDRATE,GENDER,GENM
+2009,2013,IL,Illinois,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Gender,Male,17,CAN,CAN9_1,AVGANNNMBR,GENDER,GENM
+2008,2012,IN,Indiana,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",18,CAN,CAN9_1,AVGANNNMBR,RACE,WHT
+2009,2013,IN,Indiana,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Crude Rate,Overall,Overall,18,CAN,CAN9_1,AVGANNCRDRATE,OVERALL,OVR
+2010,2014,IN,Indiana,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",18,CAN,CAN9_1,AVGANNNMBR,RACE,BLK
+2011,2015,IN,Indiana,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Overall,Overall,18,CAN,CAN9_1,AVGANNNMBR,OVERALL,OVR
+2012,2016,IN,Indiana,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Gender,Female,18,CAN,CAN9_1,AVGANNNMBR,GENDER,GENF
+2013,2017,IN,Indiana,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Race/Ethnicity,Hispanic,18,CAN,CAN9_1,AVGANNNMBR,RACE,HIS
+2014,2018,IN,Indiana,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Race/Ethnicity,"Black, non-Hispanic",18,CAN,CAN9_1,AVGANNNMBR,RACE,BLK
+2009,2013,KS,Kansas,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Gender,Male,20,CAN,CAN9_1,AVGANNNMBR,GENDER,GENM
+2011,2015,KY,Kentucky,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Gender,Female,21,CAN,CAN9_1,AVGANNNMBR,GENDER,GENF
+2015,2019,KY,Kentucky,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Gender,Male,21,CAN,CAN9_1,AVGANNNMBR,GENDER,GENM
+2010,2014,LA,Louisiana,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Gender,Male,22,CAN,CAN9_1,AVGANNNMBR,GENDER,GENM
+2009,2013,MA,Massachusetts,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Crude Rate,Race/Ethnicity,Asian or Pacific Islander,25,CAN,CAN9_1,AVGANNCRDRATE,RACE,APIO
+2010,2014,MA,Massachusetts,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Crude Rate,Overall,Overall,25,CAN,CAN9_1,AVGANNCRDRATE,OVERALL,OVR
+2011,2015,MA,Massachusetts,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Overall,Overall,25,CAN,CAN9_1,AVGANNNMBR,OVERALL,OVR
+2012,2016,MA,Massachusetts,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Crude Rate,Gender,Male,25,CAN,CAN9_1,AVGANNCRDRATE,GENDER,GENM
+2008,2012,MD,Maryland,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Race/Ethnicity,Hispanic,24,CAN,CAN9_1,AVGANNNMBR,RACE,HIS
+2009,2013,MN,Minnesota,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Gender,Male,27,CAN,CAN9_1,AVGANNNMBR,GENDER,GENM
+2010,2014,MN,Minnesota,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Overall,Overall,27,CAN,CAN9_1,AVGANNNMBR,OVERALL,OVR
+2012,2016,MN,Minnesota,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Gender,Male,27,CAN,CAN9_1,AVGANNNMBR,GENDER,GENM
+2013,2017,MN,Minnesota,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Gender,Male,27,CAN,CAN9_1,AVGANNNMBR,GENDER,GENM
+2014,2018,MN,Minnesota,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Race/Ethnicity,Hispanic,27,CAN,CAN9_1,AVGANNNMBR,RACE,HIS
+2008,2012,MO,Missouri,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Race/Ethnicity,Hispanic,29,CAN,CAN9_1,AVGANNNMBR,RACE,HIS
+2009,2013,MO,Missouri,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Gender,Male,29,CAN,CAN9_1,AVGANNNMBR,GENDER,GENM
+2010,2014,MO,Missouri,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Gender,Male,29,CAN,CAN9_1,AVGANNNMBR,GENDER,GENM
+2011,2015,MO,Missouri,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Gender,Female,29,CAN,CAN9_1,AVGANNNMBR,GENDER,GENF
+2014,2018,MO,Missouri,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Race/Ethnicity,Hispanic,29,CAN,CAN9_1,AVGANNNMBR,RACE,HIS
+2015,2019,MO,Missouri,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Race/Ethnicity,Hispanic,29,CAN,CAN9_1,AVGANNNMBR,RACE,HIS
+2008,2012,MT,Montana,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",30,CAN,CAN9_1,AVGANNNMBR,RACE,WHT
+2010,2014,MT,Montana,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Race/Ethnicity,American Indian or Alaska Native,30,CAN,CAN9_1,AVGANNNMBR,RACE,AIAO
+2010,2014,MT,Montana,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Gender,Male,30,CAN,CAN9_1,AVGANNNMBR,GENDER,GENM
+2011,2015,MT,Montana,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",30,CAN,CAN9_1,AVGANNNMBR,RACE,WHT
+2012,2016,MT,Montana,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Race/Ethnicity,Hispanic,30,CAN,CAN9_1,AVGANNNMBR,RACE,HIS
+2013,2017,MT,Montana,Statewide central cancer registries,Cancer,"Invasive melanoma, incidence",Average Annual Number,Race/Ethnicity,"White, non-Hispanic",30,CAN,CAN9_1,AVGANNNMBR,RACE,WHT
